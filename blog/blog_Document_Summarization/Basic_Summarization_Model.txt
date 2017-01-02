@@ -1,0 +1,37 @@
+To test the effectiveness of position informationin document summarization, we first propose a word-based summarization model for applying the position information. 
+
+The system follows a typical extractive style that constructs the target
+summary by selecting the most salient sentences.
+
+Under the bag-of-words model, the probability of a word w in a document set D can be scaled by its frequency, i.e., p(w)=freq(w)/|D|,
+where freq(w) indicates the frequency of w in D and |D| indicates the total number of words in D.
+
+The probability of a sentence s={w1, …, wN} is then calculated as the product of the word probabilities, i.e., p(s)=Πi p(wi). 
+
+Moreover, the probability of a summary consisting a set of sentences, denoted as S={s1, …, sM}, can be calculated by the product of the sentence
+probabilities, i.e., p(S)=Πj p(sj). 
+
+To obtain the optimum summary, an intuitive idea is to select the sentences to maximize the overall summary probability p(S), equivalent to maximizing
+log(p(S)) = ΣjΣi log(p(wji)) = ΣjΣi (logfreq(wji)-log|D|) = ΣjΣi log freq(wji) - |S|·log |D|, where wji indicates the ith word in sj and |S| indicates the total number of words in S.
+
+As to practical summarization tasks, a maximum summary length is usually postulated. 
+
+So here we just assume that the length of the summary is fixed. 
+
+Then, the above optimization target is equivalent to maximizing ΣjΣi logfreq(wji).
+
+From the view of information theory, the sum can also be interpreted as a simple measure on the total information amount of the summary.
+
+In this interpretation, the information of a single word wji is measured by log freq(wji) and the summary information is the sum of the word information.
+
+ So the optimization target can also be interpreted as including the most informative words to form the most informative summary given the length limit.
+
+In extractive summarization, summaries are composed by sentence selection. 
+
+As to the above optimization target, the sentence scoring function for ranking the sentences should be calculated as the average word information, i.e.,
+score(s) = Σi log freq(wi) / |s|.
+
+After ranking the sentences by their ranking scores, we can select the sentences into the summary by the descending order of their score
+until the length limit is reached. 
+
+By this process, the summary with the largest p(S) can be composed. 
