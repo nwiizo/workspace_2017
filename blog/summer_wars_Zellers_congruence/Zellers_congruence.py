@@ -11,7 +11,8 @@ if __name__ == '__main__':
     X = (F % 7) + 1
     week = ["土","日","月","火","水","木","金"]
     print(week[int(X)]+"曜日です",)
-    print(str(year) +"年"+str(month) + "月"+ str(day) +"日は"+str(week[int(X)])+"曜日でした")
+    print(str(year) +"年"+str(month) + "月"+ str(day) +"日は"+ \
+           str(week[int(X)])+"曜日でした")
     print("ひょっとして全部覚えてるの??")
     print("いえ、モジュロ演算というのを使って…当たってました?")
     print("ごめん、何曜日か知らないや!!")
