@@ -1,7 +1,7 @@
-Import peutils
-Import pefile
+import peutils
+import pefile
 pe = pefile.PE('md5sum-packed.exe')
 
 signatures = peutils.SignatureDatabase('http://reverse-engineering-scripts.googlecode.com/files/UserDB.TXT')
 matches = signatures.match(pe, ep_only = True)
-print matches
+print(matches)
