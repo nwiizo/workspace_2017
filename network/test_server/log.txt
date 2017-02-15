@@ -1,0 +1,2373 @@
+127.0.0.1 - - [16/Apr/2016 13:43:19] "GET / HTTP/1.1" 200 -
+Host: 127.0.0.1:8000
+Connection: keep-alive
+Accept: text/html,application/xhtml+xml,application/xml;q=0.9,image/webp,*/*;q=0.8
+Upgrade-Insecure-Requests: 1
+User-Agent: Mozilla/5.0 (X11; Linux x86_64) AppleWebKit/537.36 (KHTML, like Gecko) Ubuntu Chromium/48.0.2564.82 Chrome/48.0.2564.82 Safari/537.36
+Accept-Encoding: gzip, deflate, sdch
+Accept-Language: ja,en-US;q=0.8,en;q=0.6
+Cookie: csrftoken=bdFa5sdOysCs0EtIxdBomR6uMfE2a1Iv
+
+127.0.0.1 - - [16/Apr/2016 13:43:19] code 404, message File not found
+Host: 127.0.0.1:8000
+Connection: keep-alive
+User-Agent: Mozilla/5.0 (X11; Linux x86_64) AppleWebKit/537.36 (KHTML, like Gecko) Ubuntu Chromium/48.0.2564.82 Chrome/48.0.2564.82 Safari/537.36
+Accept: */*
+Referer: http://127.0.0.1:8000/
+Accept-Encoding: gzip, deflate, sdch
+Accept-Language: ja,en-US;q=0.8,en;q=0.6
+Cookie: csrftoken=bdFa5sdOysCs0EtIxdBomR6uMfE2a1Iv
+
+127.0.0.1 - - [16/Apr/2016 13:43:19] "GET /favicon.ico HTTP/1.1" 404 -
+Host: 127.0.0.1:8000
+Connection: keep-alive
+User-Agent: Mozilla/5.0 (X11; Linux x86_64) AppleWebKit/537.36 (KHTML, like Gecko) Ubuntu Chromium/48.0.2564.82 Chrome/48.0.2564.82 Safari/537.36
+Accept: */*
+Referer: http://127.0.0.1:8000/
+Accept-Encoding: gzip, deflate, sdch
+Accept-Language: ja,en-US;q=0.8,en;q=0.6
+Cookie: csrftoken=bdFa5sdOysCs0EtIxdBomR6uMfE2a1Iv
+
+127.0.0.1 - - [16/Apr/2016 13:43:37] "GET /server.py HTTP/1.1" 200 -
+Host: 127.0.0.1:8000
+Connection: keep-alive
+Accept: text/html,application/xhtml+xml,application/xml;q=0.9,image/webp,*/*;q=0.8
+Upgrade-Insecure-Requests: 1
+User-Agent: Mozilla/5.0 (X11; Linux x86_64) AppleWebKit/537.36 (KHTML, like Gecko) Ubuntu Chromium/48.0.2564.82 Chrome/48.0.2564.82 Safari/537.36
+Referer: http://127.0.0.1:8000/
+Accept-Encoding: gzip, deflate, sdch
+Accept-Language: ja,en-US;q=0.8,en;q=0.6
+Cookie: csrftoken=bdFa5sdOysCs0EtIxdBomR6uMfE2a1Iv
+
+127.0.0.1 - - [16/Apr/2016 13:43:46] "GET /log.txt HTTP/1.1" 200 -
+Host: 127.0.0.1:8000
+Connection: keep-alive
+Accept: text/html,application/xhtml+xml,application/xml;q=0.9,image/webp,*/*;q=0.8
+Upgrade-Insecure-Requests: 1
+User-Agent: Mozilla/5.0 (X11; Linux x86_64) AppleWebKit/537.36 (KHTML, like Gecko) Ubuntu Chromium/48.0.2564.82 Chrome/48.0.2564.82 Safari/537.36
+Referer: http://127.0.0.1:8000/
+Accept-Encoding: gzip, deflate, sdch
+Accept-Language: ja,en-US;q=0.8,en;q=0.6
+Cookie: csrftoken=bdFa5sdOysCs0EtIxdBomR6uMfE2a1Iv
+
+127.0.0.1 - - [16/Apr/2016 13:43:50] code 403, message CGI script is not a plain file ('/cgi-bin/')
+Host: 127.0.0.1:8000
+Connection: keep-alive
+Accept: text/html,application/xhtml+xml,application/xml;q=0.9,image/webp,*/*;q=0.8
+Upgrade-Insecure-Requests: 1
+User-Agent: Mozilla/5.0 (X11; Linux x86_64) AppleWebKit/537.36 (KHTML, like Gecko) Ubuntu Chromium/48.0.2564.82 Chrome/48.0.2564.82 Safari/537.36
+Referer: http://127.0.0.1:8000/
+Accept-Encoding: gzip, deflate, sdch
+Accept-Language: ja,en-US;q=0.8,en;q=0.6
+Cookie: csrftoken=bdFa5sdOysCs0EtIxdBomR6uMfE2a1Iv
+
+127.0.0.1 - - [16/Apr/2016 13:43:50] "GET /cgi-bin/ HTTP/1.1" 403 -
+Host: 127.0.0.1:8000
+Connection: keep-alive
+Accept: text/html,application/xhtml+xml,application/xml;q=0.9,image/webp,*/*;q=0.8
+Upgrade-Insecure-Requests: 1
+User-Agent: Mozilla/5.0 (X11; Linux x86_64) AppleWebKit/537.36 (KHTML, like Gecko) Ubuntu Chromium/48.0.2564.82 Chrome/48.0.2564.82 Safari/537.36
+Referer: http://127.0.0.1:8000/
+Accept-Encoding: gzip, deflate, sdch
+Accept-Language: ja,en-US;q=0.8,en;q=0.6
+Cookie: csrftoken=bdFa5sdOysCs0EtIxdBomR6uMfE2a1Iv
+
+127.0.0.1 - - [16/Apr/2016 13:48:10] "GET / HTTP/1.1" 200 -
+Host: 127.0.0.1:8000
+Connection: keep-alive
+Cache-Control: max-age=0
+Accept: text/html,application/xhtml+xml,application/xml;q=0.9,image/webp,*/*;q=0.8
+Upgrade-Insecure-Requests: 1
+User-Agent: Mozilla/5.0 (X11; Linux x86_64) AppleWebKit/537.36 (KHTML, like Gecko) Ubuntu Chromium/48.0.2564.82 Chrome/48.0.2564.82 Safari/537.36
+Accept-Encoding: gzip, deflate, sdch
+Accept-Language: ja,en-US;q=0.8,en;q=0.6
+Cookie: csrftoken=bdFa5sdOysCs0EtIxdBomR6uMfE2a1Iv
+
+127.0.0.1 - - [16/Apr/2016 13:48:11] "GET / HTTP/1.1" 200 -
+Host: 127.0.0.1:8000
+Connection: keep-alive
+Cache-Control: max-age=0
+Accept: text/html,application/xhtml+xml,application/xml;q=0.9,image/webp,*/*;q=0.8
+Upgrade-Insecure-Requests: 1
+User-Agent: Mozilla/5.0 (X11; Linux x86_64) AppleWebKit/537.36 (KHTML, like Gecko) Ubuntu Chromium/48.0.2564.82 Chrome/48.0.2564.82 Safari/537.36
+Accept-Encoding: gzip, deflate, sdch
+Accept-Language: ja,en-US;q=0.8,en;q=0.6
+Cookie: csrftoken=bdFa5sdOysCs0EtIxdBomR6uMfE2a1Iv
+
+127.0.0.1 - - [16/Apr/2016 13:48:13] "GET /data.txt HTTP/1.1" 200 -
+Host: 127.0.0.1:8000
+Connection: keep-alive
+Accept: text/html,application/xhtml+xml,application/xml;q=0.9,image/webp,*/*;q=0.8
+Upgrade-Insecure-Requests: 1
+User-Agent: Mozilla/5.0 (X11; Linux x86_64) AppleWebKit/537.36 (KHTML, like Gecko) Ubuntu Chromium/48.0.2564.82 Chrome/48.0.2564.82 Safari/537.36
+Referer: http://127.0.0.1:8000/
+Accept-Encoding: gzip, deflate, sdch
+Accept-Language: ja,en-US;q=0.8,en;q=0.6
+Cookie: csrftoken=bdFa5sdOysCs0EtIxdBomR6uMfE2a1Iv
+
+127.0.0.1 - - [16/Apr/2016 13:48:16] code 403, message CGI script is not a plain file ('/cgi-bin/')
+Host: 127.0.0.1:8000
+Connection: keep-alive
+Accept: text/html,application/xhtml+xml,application/xml;q=0.9,image/webp,*/*;q=0.8
+Upgrade-Insecure-Requests: 1
+User-Agent: Mozilla/5.0 (X11; Linux x86_64) AppleWebKit/537.36 (KHTML, like Gecko) Ubuntu Chromium/48.0.2564.82 Chrome/48.0.2564.82 Safari/537.36
+Referer: http://127.0.0.1:8000/
+Accept-Encoding: gzip, deflate, sdch
+Accept-Language: ja,en-US;q=0.8,en;q=0.6
+Cookie: csrftoken=bdFa5sdOysCs0EtIxdBomR6uMfE2a1Iv
+
+127.0.0.1 - - [16/Apr/2016 13:48:16] "GET /cgi-bin/ HTTP/1.1" 403 -
+Host: 127.0.0.1:8000
+Connection: keep-alive
+Accept: text/html,application/xhtml+xml,application/xml;q=0.9,image/webp,*/*;q=0.8
+Upgrade-Insecure-Requests: 1
+User-Agent: Mozilla/5.0 (X11; Linux x86_64) AppleWebKit/537.36 (KHTML, like Gecko) Ubuntu Chromium/48.0.2564.82 Chrome/48.0.2564.82 Safari/537.36
+Referer: http://127.0.0.1:8000/
+Accept-Encoding: gzip, deflate, sdch
+Accept-Language: ja,en-US;q=0.8,en;q=0.6
+Cookie: csrftoken=bdFa5sdOysCs0EtIxdBomR6uMfE2a1Iv
+
+127.0.0.1 - - [16/Apr/2016 13:48:52] "GET /README.md HTTP/1.1" 200 -
+Host: 127.0.0.1:8000
+Connection: keep-alive
+Accept: text/html,application/xhtml+xml,application/xml;q=0.9,image/webp,*/*;q=0.8
+Upgrade-Insecure-Requests: 1
+User-Agent: Mozilla/5.0 (X11; Linux x86_64) AppleWebKit/537.36 (KHTML, like Gecko) Ubuntu Chromium/48.0.2564.82 Chrome/48.0.2564.82 Safari/537.36
+Referer: http://127.0.0.1:8000/
+Accept-Encoding: gzip, deflate, sdch
+Accept-Language: ja,en-US;q=0.8,en;q=0.6
+Cookie: csrftoken=bdFa5sdOysCs0EtIxdBomR6uMfE2a1Iv
+
+127.0.0.1 - - [16/Apr/2016 13:49:03] code 403, message CGI script is not a plain file ('/cgi-bin/')
+Host: 127.0.0.1:8000
+Connection: keep-alive
+Accept: text/html,application/xhtml+xml,application/xml;q=0.9,image/webp,*/*;q=0.8
+Upgrade-Insecure-Requests: 1
+User-Agent: Mozilla/5.0 (X11; Linux x86_64) AppleWebKit/537.36 (KHTML, like Gecko) Ubuntu Chromium/48.0.2564.82 Chrome/48.0.2564.82 Safari/537.36
+Referer: http://127.0.0.1:8000/
+Accept-Encoding: gzip, deflate, sdch
+Accept-Language: ja,en-US;q=0.8,en;q=0.6
+Cookie: csrftoken=bdFa5sdOysCs0EtIxdBomR6uMfE2a1Iv
+
+127.0.0.1 - - [16/Apr/2016 13:49:03] "GET /cgi-bin/ HTTP/1.1" 403 -
+Host: 127.0.0.1:8000
+Connection: keep-alive
+Accept: text/html,application/xhtml+xml,application/xml;q=0.9,image/webp,*/*;q=0.8
+Upgrade-Insecure-Requests: 1
+User-Agent: Mozilla/5.0 (X11; Linux x86_64) AppleWebKit/537.36 (KHTML, like Gecko) Ubuntu Chromium/48.0.2564.82 Chrome/48.0.2564.82 Safari/537.36
+Referer: http://127.0.0.1:8000/
+Accept-Encoding: gzip, deflate, sdch
+Accept-Language: ja,en-US;q=0.8,en;q=0.6
+Cookie: csrftoken=bdFa5sdOysCs0EtIxdBomR6uMfE2a1Iv
+
+127.0.0.1 - - [16/Apr/2016 14:04:56] "GET / HTTP/1.1" 200 -
+Host: /cgi-bin/index.py
+
+127.0.0.1 - - [16/Apr/2016 14:06:02] "GET / HTTP/1.1" 200 -
+Host: 127.0.0.1:8000
+Connection: keep-alive
+Accept: text/html,application/xhtml+xml,application/xml;q=0.9,image/webp,*/*;q=0.8
+Upgrade-Insecure-Requests: 1
+User-Agent: Mozilla/5.0 (X11; Linux x86_64) AppleWebKit/537.36 (KHTML, like Gecko) Ubuntu Chromium/48.0.2564.82 Chrome/48.0.2564.82 Safari/537.36
+Accept-Encoding: gzip, deflate, sdch
+Accept-Language: ja,en-US;q=0.8,en;q=0.6
+Cookie: csrftoken=bdFa5sdOysCs0EtIxdBomR6uMfE2a1Iv
+
+127.0.0.1 - - [16/Apr/2016 14:07:25] code 403, message CGI script is not a plain file ('/cgi-bin/')
+Host: 127.0.0.1:8000
+Connection: keep-alive
+Accept: text/html,application/xhtml+xml,application/xml;q=0.9,image/webp,*/*;q=0.8
+Upgrade-Insecure-Requests: 1
+User-Agent: Mozilla/5.0 (X11; Linux x86_64) AppleWebKit/537.36 (KHTML, like Gecko) Ubuntu Chromium/48.0.2564.82 Chrome/48.0.2564.82 Safari/537.36
+Referer: http://127.0.0.1:8000/
+Accept-Encoding: gzip, deflate, sdch
+Accept-Language: ja,en-US;q=0.8,en;q=0.6
+Cookie: csrftoken=bdFa5sdOysCs0EtIxdBomR6uMfE2a1Iv
+
+127.0.0.1 - - [16/Apr/2016 14:07:25] "GET /cgi-bin/ HTTP/1.1" 403 -
+Host: 127.0.0.1:8000
+Connection: keep-alive
+Accept: text/html,application/xhtml+xml,application/xml;q=0.9,image/webp,*/*;q=0.8
+Upgrade-Insecure-Requests: 1
+User-Agent: Mozilla/5.0 (X11; Linux x86_64) AppleWebKit/537.36 (KHTML, like Gecko) Ubuntu Chromium/48.0.2564.82 Chrome/48.0.2564.82 Safari/537.36
+Referer: http://127.0.0.1:8000/
+Accept-Encoding: gzip, deflate, sdch
+Accept-Language: ja,en-US;q=0.8,en;q=0.6
+Cookie: csrftoken=bdFa5sdOysCs0EtIxdBomR6uMfE2a1Iv
+
+127.0.0.1 - - [16/Apr/2016 14:07:31] "GET /cgi-bin/index.py HTTP/1.1" 200 -
+Host: 127.0.0.1:8000
+Connection: keep-alive
+Accept: text/html,application/xhtml+xml,application/xml;q=0.9,image/webp,*/*;q=0.8
+Upgrade-Insecure-Requests: 1
+User-Agent: Mozilla/5.0 (X11; Linux x86_64) AppleWebKit/537.36 (KHTML, like Gecko) Ubuntu Chromium/48.0.2564.82 Chrome/48.0.2564.82 Safari/537.36
+Accept-Encoding: gzip, deflate, sdch
+Accept-Language: ja,en-US;q=0.8,en;q=0.6
+Cookie: csrftoken=bdFa5sdOysCs0EtIxdBomR6uMfE2a1Iv
+
+127.0.0.1 - - [16/Apr/2016 14:08:14] "GET /cgi-bin/index.py" 200 -
+Host: /cgi-bin/index.py
+
+127.0.0.1 - - [16/Apr/2016 14:08:45] "GET /cgi-bin/index.py" 200 -
+
+127.0.0.1 - - [16/Apr/2016 14:08:55] "POST /cgi-bin/index.py HTTP/1.1" 200 -
+Host: 127.0.0.1:8000
+Connection: keep-alive
+Content-Length: 15
+Cache-Control: max-age=0
+Accept: text/html,application/xhtml+xml,application/xml;q=0.9,image/webp,*/*;q=0.8
+Origin: http://127.0.0.1:8000
+Upgrade-Insecure-Requests: 1
+User-Agent: Mozilla/5.0 (X11; Linux x86_64) AppleWebKit/537.36 (KHTML, like Gecko) Ubuntu Chromium/48.0.2564.82 Chrome/48.0.2564.82 Safari/537.36
+Content-Type: application/x-www-form-urlencoded
+Referer: http://127.0.0.1:8000/cgi-bin/index.py
+Accept-Encoding: gzip, deflate
+Accept-Language: ja,en-US;q=0.8,en;q=0.6
+Cookie: csrftoken=bdFa5sdOysCs0EtIxdBomR6uMfE2a1Iv
+
+127.0.0.1 - - [16/Apr/2016 14:12:57] "GET /cgi-bin/index.py HTTP/1.1" 200 -
+Host: 127.0.0.1:8000
+User-Agent: Mozilla/5.0 (X11; Ubuntu; Linux x86_64; rv:44.0) Gecko/20100101 Firefox/44.0
+Accept: text/html,application/xhtml+xml,application/xml;q=0.9,*/*;q=0.8
+Accept-Language: en-US,en;q=0.5
+Accept-Encoding: gzip, deflate
+Connection: keep-alive
+
+127.0.0.1 - - [16/Apr/2016 14:12:57] code 404, message File not found
+Host: 127.0.0.1:8000
+User-Agent: Mozilla/5.0 (X11; Ubuntu; Linux x86_64; rv:44.0) Gecko/20100101 Firefox/44.0
+Accept: image/png,image/*;q=0.8,*/*;q=0.5
+Accept-Language: en-US,en;q=0.5
+Accept-Encoding: gzip, deflate
+Connection: keep-alive
+
+127.0.0.1 - - [16/Apr/2016 14:12:57] "GET /favicon.ico HTTP/1.1" 404 -
+Host: 127.0.0.1:8000
+User-Agent: Mozilla/5.0 (X11; Ubuntu; Linux x86_64; rv:44.0) Gecko/20100101 Firefox/44.0
+Accept: image/png,image/*;q=0.8,*/*;q=0.5
+Accept-Language: en-US,en;q=0.5
+Accept-Encoding: gzip, deflate
+Connection: keep-alive
+
+127.0.0.1 - - [16/Apr/2016 14:12:57] code 404, message File not found
+Host: 127.0.0.1:8000
+User-Agent: Mozilla/5.0 (X11; Ubuntu; Linux x86_64; rv:44.0) Gecko/20100101 Firefox/44.0
+Accept: text/html,application/xhtml+xml,application/xml;q=0.9,*/*;q=0.8
+Accept-Language: en-US,en;q=0.5
+Accept-Encoding: gzip, deflate
+Connection: keep-alive
+
+127.0.0.1 - - [16/Apr/2016 14:12:57] "GET /favicon.ico HTTP/1.1" 404 -
+Host: 127.0.0.1:8000
+User-Agent: Mozilla/5.0 (X11; Ubuntu; Linux x86_64; rv:44.0) Gecko/20100101 Firefox/44.0
+Accept: text/html,application/xhtml+xml,application/xml;q=0.9,*/*;q=0.8
+Accept-Language: en-US,en;q=0.5
+Accept-Encoding: gzip, deflate
+Connection: keep-alive
+
+127.0.0.1 - - [16/Apr/2016 14:13:00] "POST /cgi-bin/index.py HTTP/1.1" 200 -
+Host: 127.0.0.1:8000
+User-Agent: Mozilla/5.0 (X11; Ubuntu; Linux x86_64; rv:44.0) Gecko/20100101 Firefox/44.0
+Accept: text/html,application/xhtml+xml,application/xml;q=0.9,*/*;q=0.8
+Accept-Language: en-US,en;q=0.5
+Accept-Encoding: gzip, deflate
+Referer: http://127.0.0.1:8000/cgi-bin/index.py
+Connection: keep-alive
+Content-Type: application/x-www-form-urlencoded
+Content-Length: 15
+
+127.0.0.1 - - [16/Apr/2016 14:13:01] "POST /cgi-bin/index.py HTTP/1.1" 200 -
+Host: 127.0.0.1:8000
+User-Agent: Mozilla/5.0 (X11; Ubuntu; Linux x86_64; rv:44.0) Gecko/20100101 Firefox/44.0
+Accept: text/html,application/xhtml+xml,application/xml;q=0.9,*/*;q=0.8
+Accept-Language: en-US,en;q=0.5
+Accept-Encoding: gzip, deflate
+Referer: http://127.0.0.1:8000/cgi-bin/index.py
+Connection: keep-alive
+Content-Type: application/x-www-form-urlencoded
+Content-Length: 15
+
+127.0.0.1 - - [16/Apr/2016 14:13:01] "POST /cgi-bin/index.py HTTP/1.1" 200 -
+Host: 127.0.0.1:8000
+User-Agent: Mozilla/5.0 (X11; Ubuntu; Linux x86_64; rv:44.0) Gecko/20100101 Firefox/44.0
+Accept: text/html,application/xhtml+xml,application/xml;q=0.9,*/*;q=0.8
+Accept-Language: en-US,en;q=0.5
+Accept-Encoding: gzip, deflate
+Referer: http://127.0.0.1:8000/cgi-bin/index.py
+Connection: keep-alive
+Content-Type: application/x-www-form-urlencoded
+Content-Length: 15
+
+127.0.0.1 - - [16/Apr/2016 14:13:02] "POST /cgi-bin/index.py HTTP/1.1" 200 -
+Host: 127.0.0.1:8000
+User-Agent: Mozilla/5.0 (X11; Ubuntu; Linux x86_64; rv:44.0) Gecko/20100101 Firefox/44.0
+Accept: text/html,application/xhtml+xml,application/xml;q=0.9,*/*;q=0.8
+Accept-Language: en-US,en;q=0.5
+Accept-Encoding: gzip, deflate
+Referer: http://127.0.0.1:8000/cgi-bin/index.py
+Connection: keep-alive
+Content-Type: application/x-www-form-urlencoded
+Content-Length: 15
+
+127.0.0.1 - - [16/Apr/2016 14:13:02] "POST /cgi-bin/index.py HTTP/1.1" 200 -
+Host: 127.0.0.1:8000
+User-Agent: Mozilla/5.0 (X11; Ubuntu; Linux x86_64; rv:44.0) Gecko/20100101 Firefox/44.0
+Accept: text/html,application/xhtml+xml,application/xml;q=0.9,*/*;q=0.8
+Accept-Language: en-US,en;q=0.5
+Accept-Encoding: gzip, deflate
+Referer: http://127.0.0.1:8000/cgi-bin/index.py
+Connection: keep-alive
+Content-Type: application/x-www-form-urlencoded
+Content-Length: 15
+
+127.0.0.1 - - [16/Apr/2016 14:13:02] "POST /cgi-bin/index.py HTTP/1.1" 200 -
+Host: 127.0.0.1:8000
+User-Agent: Mozilla/5.0 (X11; Ubuntu; Linux x86_64; rv:44.0) Gecko/20100101 Firefox/44.0
+Accept: text/html,application/xhtml+xml,application/xml;q=0.9,*/*;q=0.8
+Accept-Language: en-US,en;q=0.5
+Accept-Encoding: gzip, deflate
+Referer: http://127.0.0.1:8000/cgi-bin/index.py
+Connection: keep-alive
+Content-Type: application/x-www-form-urlencoded
+Content-Length: 15
+
+127.0.0.1 - - [16/Apr/2016 14:13:03] "POST /cgi-bin/index.py HTTP/1.1" 200 -
+Host: 127.0.0.1:8000
+User-Agent: Mozilla/5.0 (X11; Ubuntu; Linux x86_64; rv:44.0) Gecko/20100101 Firefox/44.0
+Accept: text/html,application/xhtml+xml,application/xml;q=0.9,*/*;q=0.8
+Accept-Language: en-US,en;q=0.5
+Accept-Encoding: gzip, deflate
+Referer: http://127.0.0.1:8000/cgi-bin/index.py
+Connection: keep-alive
+Content-Type: application/x-www-form-urlencoded
+Content-Length: 15
+
+127.0.0.1 - - [16/Apr/2016 14:13:03] "POST /cgi-bin/index.py HTTP/1.1" 200 -
+Host: 127.0.0.1:8000
+User-Agent: Mozilla/5.0 (X11; Ubuntu; Linux x86_64; rv:44.0) Gecko/20100101 Firefox/44.0
+Accept: text/html,application/xhtml+xml,application/xml;q=0.9,*/*;q=0.8
+Accept-Language: en-US,en;q=0.5
+Accept-Encoding: gzip, deflate
+Referer: http://127.0.0.1:8000/cgi-bin/index.py
+Connection: keep-alive
+Content-Type: application/x-www-form-urlencoded
+Content-Length: 15
+
+127.0.0.1 - - [16/Apr/2016 14:13:03] "POST /cgi-bin/index.py HTTP/1.1" 200 -
+Host: 127.0.0.1:8000
+User-Agent: Mozilla/5.0 (X11; Ubuntu; Linux x86_64; rv:44.0) Gecko/20100101 Firefox/44.0
+Accept: text/html,application/xhtml+xml,application/xml;q=0.9,*/*;q=0.8
+Accept-Language: en-US,en;q=0.5
+Accept-Encoding: gzip, deflate
+Referer: http://127.0.0.1:8000/cgi-bin/index.py
+Connection: keep-alive
+Content-Type: application/x-www-form-urlencoded
+Content-Length: 15
+
+127.0.0.1 - - [16/Apr/2016 14:13:03] "POST /cgi-bin/index.py HTTP/1.1" 200 -
+Host: 127.0.0.1:8000
+User-Agent: Mozilla/5.0 (X11; Ubuntu; Linux x86_64; rv:44.0) Gecko/20100101 Firefox/44.0
+Accept: text/html,application/xhtml+xml,application/xml;q=0.9,*/*;q=0.8
+Accept-Language: en-US,en;q=0.5
+Accept-Encoding: gzip, deflate
+Referer: http://127.0.0.1:8000/cgi-bin/index.py
+Connection: keep-alive
+Content-Type: application/x-www-form-urlencoded
+Content-Length: 15
+
+127.0.0.1 - - [16/Apr/2016 14:13:03] "POST /cgi-bin/index.py HTTP/1.1" 200 -
+Host: 127.0.0.1:8000
+User-Agent: Mozilla/5.0 (X11; Ubuntu; Linux x86_64; rv:44.0) Gecko/20100101 Firefox/44.0
+Accept: text/html,application/xhtml+xml,application/xml;q=0.9,*/*;q=0.8
+Accept-Language: en-US,en;q=0.5
+Accept-Encoding: gzip, deflate
+Referer: http://127.0.0.1:8000/cgi-bin/index.py
+Connection: keep-alive
+Content-Type: application/x-www-form-urlencoded
+Content-Length: 15
+
+127.0.0.1 - - [16/Apr/2016 14:13:04] "POST /cgi-bin/index.py HTTP/1.1" 200 -
+Host: 127.0.0.1:8000
+User-Agent: Mozilla/5.0 (X11; Ubuntu; Linux x86_64; rv:44.0) Gecko/20100101 Firefox/44.0
+Accept: text/html,application/xhtml+xml,application/xml;q=0.9,*/*;q=0.8
+Accept-Language: en-US,en;q=0.5
+Accept-Encoding: gzip, deflate
+Referer: http://127.0.0.1:8000/cgi-bin/index.py
+Connection: keep-alive
+Content-Type: application/x-www-form-urlencoded
+Content-Length: 15
+
+127.0.0.1 - - [16/Apr/2016 14:13:04] "POST /cgi-bin/index.py HTTP/1.1" 200 -
+Host: 127.0.0.1:8000
+User-Agent: Mozilla/5.0 (X11; Ubuntu; Linux x86_64; rv:44.0) Gecko/20100101 Firefox/44.0
+Accept: text/html,application/xhtml+xml,application/xml;q=0.9,*/*;q=0.8
+Accept-Language: en-US,en;q=0.5
+Accept-Encoding: gzip, deflate
+Referer: http://127.0.0.1:8000/cgi-bin/index.py
+Connection: keep-alive
+Content-Type: application/x-www-form-urlencoded
+Content-Length: 15
+
+127.0.0.1 - - [16/Apr/2016 14:13:04] "POST /cgi-bin/index.py HTTP/1.1" 200 -
+Host: 127.0.0.1:8000
+User-Agent: Mozilla/5.0 (X11; Ubuntu; Linux x86_64; rv:44.0) Gecko/20100101 Firefox/44.0
+Accept: text/html,application/xhtml+xml,application/xml;q=0.9,*/*;q=0.8
+Accept-Language: en-US,en;q=0.5
+Accept-Encoding: gzip, deflate
+Referer: http://127.0.0.1:8000/cgi-bin/index.py
+Connection: keep-alive
+Content-Type: application/x-www-form-urlencoded
+Content-Length: 15
+
+127.0.0.1 - - [16/Apr/2016 14:13:04] "POST /cgi-bin/index.py HTTP/1.1" 200 -
+Host: 127.0.0.1:8000
+User-Agent: Mozilla/5.0 (X11; Ubuntu; Linux x86_64; rv:44.0) Gecko/20100101 Firefox/44.0
+Accept: text/html,application/xhtml+xml,application/xml;q=0.9,*/*;q=0.8
+Accept-Language: en-US,en;q=0.5
+Accept-Encoding: gzip, deflate
+Referer: http://127.0.0.1:8000/cgi-bin/index.py
+Connection: keep-alive
+Content-Type: application/x-www-form-urlencoded
+Content-Length: 15
+
+127.0.0.1 - - [16/Apr/2016 14:13:04] "POST /cgi-bin/index.py HTTP/1.1" 200 -
+Host: 127.0.0.1:8000
+User-Agent: Mozilla/5.0 (X11; Ubuntu; Linux x86_64; rv:44.0) Gecko/20100101 Firefox/44.0
+Accept: text/html,application/xhtml+xml,application/xml;q=0.9,*/*;q=0.8
+Accept-Language: en-US,en;q=0.5
+Accept-Encoding: gzip, deflate
+Referer: http://127.0.0.1:8000/cgi-bin/index.py
+Connection: keep-alive
+Content-Type: application/x-www-form-urlencoded
+Content-Length: 15
+
+127.0.0.1 - - [16/Apr/2016 14:13:04] "POST /cgi-bin/index.py HTTP/1.1" 200 -
+Host: 127.0.0.1:8000
+User-Agent: Mozilla/5.0 (X11; Ubuntu; Linux x86_64; rv:44.0) Gecko/20100101 Firefox/44.0
+Accept: text/html,application/xhtml+xml,application/xml;q=0.9,*/*;q=0.8
+Accept-Language: en-US,en;q=0.5
+Accept-Encoding: gzip, deflate
+Referer: http://127.0.0.1:8000/cgi-bin/index.py
+Connection: keep-alive
+Content-Type: application/x-www-form-urlencoded
+Content-Length: 15
+
+127.0.0.1 - - [16/Apr/2016 14:13:04] "POST /cgi-bin/index.py HTTP/1.1" 200 -
+Host: 127.0.0.1:8000
+User-Agent: Mozilla/5.0 (X11; Ubuntu; Linux x86_64; rv:44.0) Gecko/20100101 Firefox/44.0
+Accept: text/html,application/xhtml+xml,application/xml;q=0.9,*/*;q=0.8
+Accept-Language: en-US,en;q=0.5
+Accept-Encoding: gzip, deflate
+Referer: http://127.0.0.1:8000/cgi-bin/index.py
+Connection: keep-alive
+Content-Type: application/x-www-form-urlencoded
+Content-Length: 15
+
+127.0.0.1 - - [16/Apr/2016 14:13:05] "POST /cgi-bin/index.py HTTP/1.1" 200 -
+Host: 127.0.0.1:8000
+User-Agent: Mozilla/5.0 (X11; Ubuntu; Linux x86_64; rv:44.0) Gecko/20100101 Firefox/44.0
+Accept: text/html,application/xhtml+xml,application/xml;q=0.9,*/*;q=0.8
+Accept-Language: en-US,en;q=0.5
+Accept-Encoding: gzip, deflate
+Referer: http://127.0.0.1:8000/cgi-bin/index.py
+Connection: keep-alive
+Content-Type: application/x-www-form-urlencoded
+Content-Length: 15
+
+127.0.0.1 - - [16/Apr/2016 14:13:05] "POST /cgi-bin/index.py HTTP/1.1" 200 -
+Host: 127.0.0.1:8000
+User-Agent: Mozilla/5.0 (X11; Ubuntu; Linux x86_64; rv:44.0) Gecko/20100101 Firefox/44.0
+Accept: text/html,application/xhtml+xml,application/xml;q=0.9,*/*;q=0.8
+Accept-Language: en-US,en;q=0.5
+Accept-Encoding: gzip, deflate
+Referer: http://127.0.0.1:8000/cgi-bin/index.py
+Connection: keep-alive
+Content-Type: application/x-www-form-urlencoded
+Content-Length: 15
+
+127.0.0.1 - - [16/Apr/2016 14:13:05] "POST /cgi-bin/index.py HTTP/1.1" 200 -
+Host: 127.0.0.1:8000
+User-Agent: Mozilla/5.0 (X11; Ubuntu; Linux x86_64; rv:44.0) Gecko/20100101 Firefox/44.0
+Accept: text/html,application/xhtml+xml,application/xml;q=0.9,*/*;q=0.8
+Accept-Language: en-US,en;q=0.5
+Accept-Encoding: gzip, deflate
+Referer: http://127.0.0.1:8000/cgi-bin/index.py
+Connection: keep-alive
+Content-Type: application/x-www-form-urlencoded
+Content-Length: 15
+
+127.0.0.1 - - [16/Apr/2016 14:13:05] "POST /cgi-bin/index.py HTTP/1.1" 200 -
+Host: 127.0.0.1:8000
+User-Agent: Mozilla/5.0 (X11; Ubuntu; Linux x86_64; rv:44.0) Gecko/20100101 Firefox/44.0
+Accept: text/html,application/xhtml+xml,application/xml;q=0.9,*/*;q=0.8
+Accept-Language: en-US,en;q=0.5
+Accept-Encoding: gzip, deflate
+Referer: http://127.0.0.1:8000/cgi-bin/index.py
+Connection: keep-alive
+Content-Type: application/x-www-form-urlencoded
+Content-Length: 15
+
+127.0.0.1 - - [16/Apr/2016 14:13:05] "POST /cgi-bin/index.py HTTP/1.1" 200 -
+Host: 127.0.0.1:8000
+User-Agent: Mozilla/5.0 (X11; Ubuntu; Linux x86_64; rv:44.0) Gecko/20100101 Firefox/44.0
+Accept: text/html,application/xhtml+xml,application/xml;q=0.9,*/*;q=0.8
+Accept-Language: en-US,en;q=0.5
+Accept-Encoding: gzip, deflate
+Referer: http://127.0.0.1:8000/cgi-bin/index.py
+Connection: keep-alive
+Content-Type: application/x-www-form-urlencoded
+Content-Length: 15
+
+127.0.0.1 - - [16/Apr/2016 14:13:05] "POST /cgi-bin/index.py HTTP/1.1" 200 -
+Host: 127.0.0.1:8000
+User-Agent: Mozilla/5.0 (X11; Ubuntu; Linux x86_64; rv:44.0) Gecko/20100101 Firefox/44.0
+Accept: text/html,application/xhtml+xml,application/xml;q=0.9,*/*;q=0.8
+Accept-Language: en-US,en;q=0.5
+Accept-Encoding: gzip, deflate
+Referer: http://127.0.0.1:8000/cgi-bin/index.py
+Connection: keep-alive
+Content-Type: application/x-www-form-urlencoded
+Content-Length: 15
+
+127.0.0.1 - - [16/Apr/2016 14:13:05] "POST /cgi-bin/index.py HTTP/1.1" 200 -
+Host: 127.0.0.1:8000
+User-Agent: Mozilla/5.0 (X11; Ubuntu; Linux x86_64; rv:44.0) Gecko/20100101 Firefox/44.0
+Accept: text/html,application/xhtml+xml,application/xml;q=0.9,*/*;q=0.8
+Accept-Language: en-US,en;q=0.5
+Accept-Encoding: gzip, deflate
+Referer: http://127.0.0.1:8000/cgi-bin/index.py
+Connection: keep-alive
+Content-Type: application/x-www-form-urlencoded
+Content-Length: 15
+
+127.0.0.1 - - [16/Apr/2016 14:13:06] "POST /cgi-bin/index.py HTTP/1.1" 200 -
+Host: 127.0.0.1:8000
+User-Agent: Mozilla/5.0 (X11; Ubuntu; Linux x86_64; rv:44.0) Gecko/20100101 Firefox/44.0
+Accept: text/html,application/xhtml+xml,application/xml;q=0.9,*/*;q=0.8
+Accept-Language: en-US,en;q=0.5
+Accept-Encoding: gzip, deflate
+Referer: http://127.0.0.1:8000/cgi-bin/index.py
+Connection: keep-alive
+Content-Type: application/x-www-form-urlencoded
+Content-Length: 15
+
+127.0.0.1 - - [16/Apr/2016 14:13:06] "POST /cgi-bin/index.py HTTP/1.1" 200 -
+Host: 127.0.0.1:8000
+User-Agent: Mozilla/5.0 (X11; Ubuntu; Linux x86_64; rv:44.0) Gecko/20100101 Firefox/44.0
+Accept: text/html,application/xhtml+xml,application/xml;q=0.9,*/*;q=0.8
+Accept-Language: en-US,en;q=0.5
+Accept-Encoding: gzip, deflate
+Referer: http://127.0.0.1:8000/cgi-bin/index.py
+Connection: keep-alive
+Content-Type: application/x-www-form-urlencoded
+Content-Length: 15
+
+127.0.0.1 - - [16/Apr/2016 14:13:06] "POST /cgi-bin/index.py HTTP/1.1" 200 -
+Host: 127.0.0.1:8000
+User-Agent: Mozilla/5.0 (X11; Ubuntu; Linux x86_64; rv:44.0) Gecko/20100101 Firefox/44.0
+Accept: text/html,application/xhtml+xml,application/xml;q=0.9,*/*;q=0.8
+Accept-Language: en-US,en;q=0.5
+Accept-Encoding: gzip, deflate
+Referer: http://127.0.0.1:8000/cgi-bin/index.py
+Connection: keep-alive
+Content-Type: application/x-www-form-urlencoded
+Content-Length: 15
+
+127.0.0.1 - - [16/Apr/2016 14:13:06] "POST /cgi-bin/index.py HTTP/1.1" 200 -
+Host: 127.0.0.1:8000
+User-Agent: Mozilla/5.0 (X11; Ubuntu; Linux x86_64; rv:44.0) Gecko/20100101 Firefox/44.0
+Accept: text/html,application/xhtml+xml,application/xml;q=0.9,*/*;q=0.8
+Accept-Language: en-US,en;q=0.5
+Accept-Encoding: gzip, deflate
+Referer: http://127.0.0.1:8000/cgi-bin/index.py
+Connection: keep-alive
+Content-Type: application/x-www-form-urlencoded
+Content-Length: 15
+
+127.0.0.1 - - [16/Apr/2016 14:13:06] "POST /cgi-bin/index.py HTTP/1.1" 200 -
+Host: 127.0.0.1:8000
+User-Agent: Mozilla/5.0 (X11; Ubuntu; Linux x86_64; rv:44.0) Gecko/20100101 Firefox/44.0
+Accept: text/html,application/xhtml+xml,application/xml;q=0.9,*/*;q=0.8
+Accept-Language: en-US,en;q=0.5
+Accept-Encoding: gzip, deflate
+Referer: http://127.0.0.1:8000/cgi-bin/index.py
+Connection: keep-alive
+Content-Type: application/x-www-form-urlencoded
+Content-Length: 15
+
+127.0.0.1 - - [16/Apr/2016 14:13:06] "POST /cgi-bin/index.py HTTP/1.1" 200 -
+Host: 127.0.0.1:8000
+User-Agent: Mozilla/5.0 (X11; Ubuntu; Linux x86_64; rv:44.0) Gecko/20100101 Firefox/44.0
+Accept: text/html,application/xhtml+xml,application/xml;q=0.9,*/*;q=0.8
+Accept-Language: en-US,en;q=0.5
+Accept-Encoding: gzip, deflate
+Referer: http://127.0.0.1:8000/cgi-bin/index.py
+Connection: keep-alive
+Content-Type: application/x-www-form-urlencoded
+Content-Length: 15
+
+127.0.0.1 - - [16/Apr/2016 14:13:06] "POST /cgi-bin/index.py HTTP/1.1" 200 -
+Host: 127.0.0.1:8000
+User-Agent: Mozilla/5.0 (X11; Ubuntu; Linux x86_64; rv:44.0) Gecko/20100101 Firefox/44.0
+Accept: text/html,application/xhtml+xml,application/xml;q=0.9,*/*;q=0.8
+Accept-Language: en-US,en;q=0.5
+Accept-Encoding: gzip, deflate
+Referer: http://127.0.0.1:8000/cgi-bin/index.py
+Connection: keep-alive
+Content-Type: application/x-www-form-urlencoded
+Content-Length: 15
+
+127.0.0.1 - - [16/Apr/2016 14:13:07] "POST /cgi-bin/index.py HTTP/1.1" 200 -
+Host: 127.0.0.1:8000
+User-Agent: Mozilla/5.0 (X11; Ubuntu; Linux x86_64; rv:44.0) Gecko/20100101 Firefox/44.0
+Accept: text/html,application/xhtml+xml,application/xml;q=0.9,*/*;q=0.8
+Accept-Language: en-US,en;q=0.5
+Accept-Encoding: gzip, deflate
+Referer: http://127.0.0.1:8000/cgi-bin/index.py
+Connection: keep-alive
+Content-Type: application/x-www-form-urlencoded
+Content-Length: 15
+
+127.0.0.1 - - [16/Apr/2016 14:13:07] "POST /cgi-bin/index.py HTTP/1.1" 200 -
+Host: 127.0.0.1:8000
+User-Agent: Mozilla/5.0 (X11; Ubuntu; Linux x86_64; rv:44.0) Gecko/20100101 Firefox/44.0
+Accept: text/html,application/xhtml+xml,application/xml;q=0.9,*/*;q=0.8
+Accept-Language: en-US,en;q=0.5
+Accept-Encoding: gzip, deflate
+Referer: http://127.0.0.1:8000/cgi-bin/index.py
+Connection: keep-alive
+Content-Type: application/x-www-form-urlencoded
+Content-Length: 15
+
+127.0.0.1 - - [16/Apr/2016 14:13:07] "POST /cgi-bin/index.py HTTP/1.1" 200 -
+Host: 127.0.0.1:8000
+User-Agent: Mozilla/5.0 (X11; Ubuntu; Linux x86_64; rv:44.0) Gecko/20100101 Firefox/44.0
+Accept: text/html,application/xhtml+xml,application/xml;q=0.9,*/*;q=0.8
+Accept-Language: en-US,en;q=0.5
+Accept-Encoding: gzip, deflate
+Referer: http://127.0.0.1:8000/cgi-bin/index.py
+Connection: keep-alive
+Content-Type: application/x-www-form-urlencoded
+Content-Length: 15
+
+127.0.0.1 - - [16/Apr/2016 14:13:07] "POST /cgi-bin/index.py HTTP/1.1" 200 -
+Host: 127.0.0.1:8000
+User-Agent: Mozilla/5.0 (X11; Ubuntu; Linux x86_64; rv:44.0) Gecko/20100101 Firefox/44.0
+Accept: text/html,application/xhtml+xml,application/xml;q=0.9,*/*;q=0.8
+Accept-Language: en-US,en;q=0.5
+Accept-Encoding: gzip, deflate
+Referer: http://127.0.0.1:8000/cgi-bin/index.py
+Connection: keep-alive
+Content-Type: application/x-www-form-urlencoded
+Content-Length: 15
+
+127.0.0.1 - - [16/Apr/2016 14:13:07] "POST /cgi-bin/index.py HTTP/1.1" 200 -
+Host: 127.0.0.1:8000
+User-Agent: Mozilla/5.0 (X11; Ubuntu; Linux x86_64; rv:44.0) Gecko/20100101 Firefox/44.0
+Accept: text/html,application/xhtml+xml,application/xml;q=0.9,*/*;q=0.8
+Accept-Language: en-US,en;q=0.5
+Accept-Encoding: gzip, deflate
+Referer: http://127.0.0.1:8000/cgi-bin/index.py
+Connection: keep-alive
+Content-Type: application/x-www-form-urlencoded
+Content-Length: 15
+
+127.0.0.1 - - [16/Apr/2016 14:13:07] "POST /cgi-bin/index.py HTTP/1.1" 200 -
+Host: 127.0.0.1:8000
+User-Agent: Mozilla/5.0 (X11; Ubuntu; Linux x86_64; rv:44.0) Gecko/20100101 Firefox/44.0
+Accept: text/html,application/xhtml+xml,application/xml;q=0.9,*/*;q=0.8
+Accept-Language: en-US,en;q=0.5
+Accept-Encoding: gzip, deflate
+Referer: http://127.0.0.1:8000/cgi-bin/index.py
+Connection: keep-alive
+Content-Type: application/x-www-form-urlencoded
+Content-Length: 15
+
+127.0.0.1 - - [16/Apr/2016 14:15:12] "GET /cgi-bin/index.py" 200 -
+
+127.0.0.1 - - [16/Apr/2016 14:18:38] "GET /cgi-bin/index.py" 200 -
+
+127.0.0.1 - - [16/Apr/2016 14:22:13] "GET /cgi-bin/index.py" 200 -
+
+127.0.0.1 - - [16/Apr/2016 14:23:18] code 404, message File not found
+Host: 127.0.0.1:8000
+Connection: keep-alive
+Accept: text/html,application/xhtml+xml,application/xml;q=0.9,image/webp,*/*;q=0.8
+Upgrade-Insecure-Requests: 1
+User-Agent: Mozilla/5.0 (X11; Linux x86_64) AppleWebKit/537.36 (KHTML, like Gecko) Ubuntu Chromium/48.0.2564.82 Chrome/48.0.2564.82 Safari/537.36
+Accept-Encoding: gzip, deflate, sdch
+Accept-Language: ja,en-US;q=0.8,en;q=0.6
+Cookie: csrftoken=bdFa5sdOysCs0EtIxdBomR6uMfE2a1Iv
+
+127.0.0.1 - - [16/Apr/2016 14:23:18] "GET /api/entries/ HTTP/1.1" 404 -
+Host: 127.0.0.1:8000
+Connection: keep-alive
+Accept: text/html,application/xhtml+xml,application/xml;q=0.9,image/webp,*/*;q=0.8
+Upgrade-Insecure-Requests: 1
+User-Agent: Mozilla/5.0 (X11; Linux x86_64) AppleWebKit/537.36 (KHTML, like Gecko) Ubuntu Chromium/48.0.2564.82 Chrome/48.0.2564.82 Safari/537.36
+Accept-Encoding: gzip, deflate, sdch
+Accept-Language: ja,en-US;q=0.8,en;q=0.6
+Cookie: csrftoken=bdFa5sdOysCs0EtIxdBomR6uMfE2a1Iv
+
+127.0.0.1 - - [16/Apr/2016 14:26:09] "POST /cgi-bin/index.py HTTP/1.1" 200 -
+Host: 127.0.0.1:8000
+User-Agent: Mozilla/5.0 (X11; Ubuntu; Linux x86_64; rv:44.0) Gecko/20100101 Firefox/44.0
+Accept: text/html,application/xhtml+xml,application/xml;q=0.9,*/*;q=0.8
+Accept-Language: en-US,en;q=0.5
+Accept-Encoding: gzip, deflate
+Referer: http://127.0.0.1:8000/cgi-bin/index.py
+Connection: keep-alive
+Content-Type: application/x-www-form-urlencoded
+Content-Length: 56
+
+127.0.0.1 - - [16/Apr/2016 14:31:01] "GET /cgi-bin/index.py" 200 -
+
+127.0.0.1 - - [16/Apr/2016 14:32:46] "GET /" 200 -
+
+127.0.0.1 - - [16/Apr/2016 14:37:27] "GET /cgi-bin/index.py HTTP/1.0" 200 -
+Host: 127.0.0.1:8000
+User-Agent: Python-urllib/1.17
+
+127.0.0.1 - - [16/Apr/2016 14:38:49] "GET /data.txt HTTP/1.1" 200 -
+Host: 127.0.0.1:8000
+Connection: keep-alive
+Cache-Control: max-age=0
+Accept: text/html,application/xhtml+xml,application/xml;q=0.9,image/webp,*/*;q=0.8
+Upgrade-Insecure-Requests: 1
+User-Agent: Mozilla/5.0 (X11; Linux x86_64) AppleWebKit/537.36 (KHTML, like Gecko) Ubuntu Chromium/48.0.2564.82 Chrome/48.0.2564.82 Safari/537.36
+Referer: http://127.0.0.1:8000/
+Accept-Encoding: gzip, deflate, sdch
+Accept-Language: ja,en-US;q=0.8,en;q=0.6
+Cookie: csrftoken=bdFa5sdOysCs0EtIxdBomR6uMfE2a1Iv
+If-Modified-Since: Thu, 14 Apr 2016 04:21:28 GMT
+
+127.0.0.1 - - [16/Apr/2016 14:40:37] "POST /cgi-bin/index.py HTTP/1.1" 200 -
+Host: 127.0.0.1:8000
+User-Agent: Mozilla/5.0 (X11; Ubuntu; Linux x86_64; rv:44.0) Gecko/20100101 Firefox/44.0
+Accept: text/html,application/xhtml+xml,application/xml;q=0.9,*/*;q=0.8
+Accept-Language: en-US,en;q=0.5
+Accept-Encoding: gzip, deflate
+Referer: http://127.0.0.1:8000/cgi-bin/index.py
+Connection: keep-alive
+Content-Type: application/x-www-form-urlencoded
+Content-Length: 31
+
+127.0.0.1 - - [16/Apr/2016 14:40:42] "GET /data.txt HTTP/1.1" 200 -
+Host: 127.0.0.1:8000
+Connection: keep-alive
+Cache-Control: max-age=0
+Accept: text/html,application/xhtml+xml,application/xml;q=0.9,image/webp,*/*;q=0.8
+Upgrade-Insecure-Requests: 1
+User-Agent: Mozilla/5.0 (X11; Linux x86_64) AppleWebKit/537.36 (KHTML, like Gecko) Ubuntu Chromium/48.0.2564.82 Chrome/48.0.2564.82 Safari/537.36
+Referer: http://127.0.0.1:8000/
+Accept-Encoding: gzip, deflate, sdch
+Accept-Language: ja,en-US;q=0.8,en;q=0.6
+Cookie: csrftoken=bdFa5sdOysCs0EtIxdBomR6uMfE2a1Iv
+If-Modified-Since: Sat, 16 Apr 2016 05:26:09 GMT
+
+127.0.0.1 - - [16/Apr/2016 14:51:28] "POST /cgi-bin/index.py HTTP/1.1" 200 -
+Host: 127.0.0.1:8000
+User-Agent: Mozilla/5.0 (X11; Ubuntu; Linux x86_64; rv:44.0) Gecko/20100101 Firefox/44.0
+Accept: text/html,application/xhtml+xml,application/xml;q=0.9,*/*;q=0.8
+Accept-Language: en-US,en;q=0.5
+Accept-Encoding: gzip, deflate
+Referer: http://127.0.0.1:8000/cgi-bin/index.py
+Connection: keep-alive
+Content-Type: application/x-www-form-urlencoded
+Content-Length: 22
+
+127.0.0.1 - - [16/Apr/2016 14:51:32] "GET /data.txt HTTP/1.1" 200 -
+Host: 127.0.0.1:8000
+Connection: keep-alive
+Cache-Control: max-age=0
+Accept: text/html,application/xhtml+xml,application/xml;q=0.9,image/webp,*/*;q=0.8
+Upgrade-Insecure-Requests: 1
+User-Agent: Mozilla/5.0 (X11; Linux x86_64) AppleWebKit/537.36 (KHTML, like Gecko) Ubuntu Chromium/48.0.2564.82 Chrome/48.0.2564.82 Safari/537.36
+Referer: http://127.0.0.1:8000/
+Accept-Encoding: gzip, deflate, sdch
+Accept-Language: ja,en-US;q=0.8,en;q=0.6
+Cookie: csrftoken=bdFa5sdOysCs0EtIxdBomR6uMfE2a1Iv
+If-Modified-Since: Sat, 16 Apr 2016 05:40:37 GMT
+
+127.0.0.1 - - [16/Apr/2016 14:51:46] "POST /cgi-bin/index.py HTTP/1.1" 200 -
+Host: 127.0.0.1:8000
+User-Agent: Mozilla/5.0 (X11; Ubuntu; Linux x86_64; rv:44.0) Gecko/20100101 Firefox/44.0
+Accept: text/html,application/xhtml+xml,application/xml;q=0.9,*/*;q=0.8
+Accept-Language: en-US,en;q=0.5
+Accept-Encoding: gzip, deflate
+Referer: http://127.0.0.1:8000/cgi-bin/index.py
+Connection: keep-alive
+Content-Type: application/x-www-form-urlencoded
+Content-Length: 15
+
+127.0.0.1 - - [16/Apr/2016 14:53:31] "GET /data.txt HTTP/1.1" 200 -
+Host: 127.0.0.1:8000
+Connection: keep-alive
+Cache-Control: max-age=0
+Accept: text/html,application/xhtml+xml,application/xml;q=0.9,image/webp,*/*;q=0.8
+Upgrade-Insecure-Requests: 1
+User-Agent: Mozilla/5.0 (X11; Linux x86_64) AppleWebKit/537.36 (KHTML, like Gecko) Ubuntu Chromium/48.0.2564.82 Chrome/48.0.2564.82 Safari/537.36
+Referer: http://127.0.0.1:8000/
+Accept-Encoding: gzip, deflate, sdch
+Accept-Language: ja,en-US;q=0.8,en;q=0.6
+Cookie: csrftoken=bdFa5sdOysCs0EtIxdBomR6uMfE2a1Iv
+If-Modified-Since: Sat, 16 Apr 2016 05:40:37 GMT
+
+127.0.0.1 - - [16/Apr/2016 14:53:33] "GET /data.txt HTTP/1.1" 200 -
+Host: 127.0.0.1:8000
+Connection: keep-alive
+Cache-Control: max-age=0
+Accept: text/html,application/xhtml+xml,application/xml;q=0.9,image/webp,*/*;q=0.8
+Upgrade-Insecure-Requests: 1
+User-Agent: Mozilla/5.0 (X11; Linux x86_64) AppleWebKit/537.36 (KHTML, like Gecko) Ubuntu Chromium/48.0.2564.82 Chrome/48.0.2564.82 Safari/537.36
+Referer: http://127.0.0.1:8000/
+Accept-Encoding: gzip, deflate, sdch
+Accept-Language: ja,en-US;q=0.8,en;q=0.6
+Cookie: csrftoken=bdFa5sdOysCs0EtIxdBomR6uMfE2a1Iv
+If-Modified-Since: Sat, 16 Apr 2016 05:53:19 GMT
+
+127.0.0.1 - - [16/Apr/2016 14:53:34] "GET /data.txt HTTP/1.1" 200 -
+Host: 127.0.0.1:8000
+Connection: keep-alive
+Cache-Control: max-age=0
+Accept: text/html,application/xhtml+xml,application/xml;q=0.9,image/webp,*/*;q=0.8
+Upgrade-Insecure-Requests: 1
+User-Agent: Mozilla/5.0 (X11; Linux x86_64) AppleWebKit/537.36 (KHTML, like Gecko) Ubuntu Chromium/48.0.2564.82 Chrome/48.0.2564.82 Safari/537.36
+Referer: http://127.0.0.1:8000/
+Accept-Encoding: gzip, deflate, sdch
+Accept-Language: ja,en-US;q=0.8,en;q=0.6
+Cookie: csrftoken=bdFa5sdOysCs0EtIxdBomR6uMfE2a1Iv
+If-Modified-Since: Sat, 16 Apr 2016 05:53:19 GMT
+
+127.0.0.1 - - [16/Apr/2016 14:53:34] "GET /data.txt HTTP/1.1" 200 -
+Host: 127.0.0.1:8000
+Connection: keep-alive
+Cache-Control: max-age=0
+Accept: text/html,application/xhtml+xml,application/xml;q=0.9,image/webp,*/*;q=0.8
+Upgrade-Insecure-Requests: 1
+User-Agent: Mozilla/5.0 (X11; Linux x86_64) AppleWebKit/537.36 (KHTML, like Gecko) Ubuntu Chromium/48.0.2564.82 Chrome/48.0.2564.82 Safari/537.36
+Referer: http://127.0.0.1:8000/
+Accept-Encoding: gzip, deflate, sdch
+Accept-Language: ja,en-US;q=0.8,en;q=0.6
+Cookie: csrftoken=bdFa5sdOysCs0EtIxdBomR6uMfE2a1Iv
+If-Modified-Since: Sat, 16 Apr 2016 05:53:19 GMT
+
+127.0.0.1 - - [16/Apr/2016 14:53:34] "GET /data.txt HTTP/1.1" 200 -
+Host: 127.0.0.1:8000
+Connection: keep-alive
+Cache-Control: max-age=0
+Accept: text/html,application/xhtml+xml,application/xml;q=0.9,image/webp,*/*;q=0.8
+Upgrade-Insecure-Requests: 1
+User-Agent: Mozilla/5.0 (X11; Linux x86_64) AppleWebKit/537.36 (KHTML, like Gecko) Ubuntu Chromium/48.0.2564.82 Chrome/48.0.2564.82 Safari/537.36
+Referer: http://127.0.0.1:8000/
+Accept-Encoding: gzip, deflate, sdch
+Accept-Language: ja,en-US;q=0.8,en;q=0.6
+Cookie: csrftoken=bdFa5sdOysCs0EtIxdBomR6uMfE2a1Iv
+If-Modified-Since: Sat, 16 Apr 2016 05:53:19 GMT
+
+127.0.0.1 - - [16/Apr/2016 14:53:34] "GET /data.txt HTTP/1.1" 200 -
+Host: 127.0.0.1:8000
+Connection: keep-alive
+Cache-Control: max-age=0
+Accept: text/html,application/xhtml+xml,application/xml;q=0.9,image/webp,*/*;q=0.8
+Upgrade-Insecure-Requests: 1
+User-Agent: Mozilla/5.0 (X11; Linux x86_64) AppleWebKit/537.36 (KHTML, like Gecko) Ubuntu Chromium/48.0.2564.82 Chrome/48.0.2564.82 Safari/537.36
+Referer: http://127.0.0.1:8000/
+Accept-Encoding: gzip, deflate, sdch
+Accept-Language: ja,en-US;q=0.8,en;q=0.6
+Cookie: csrftoken=bdFa5sdOysCs0EtIxdBomR6uMfE2a1Iv
+If-Modified-Since: Sat, 16 Apr 2016 05:53:19 GMT
+
+127.0.0.1 - - [16/Apr/2016 14:53:34] "GET /data.txt HTTP/1.1" 200 -
+Host: 127.0.0.1:8000
+Connection: keep-alive
+Cache-Control: max-age=0
+Accept: text/html,application/xhtml+xml,application/xml;q=0.9,image/webp,*/*;q=0.8
+Upgrade-Insecure-Requests: 1
+User-Agent: Mozilla/5.0 (X11; Linux x86_64) AppleWebKit/537.36 (KHTML, like Gecko) Ubuntu Chromium/48.0.2564.82 Chrome/48.0.2564.82 Safari/537.36
+Referer: http://127.0.0.1:8000/
+Accept-Encoding: gzip, deflate, sdch
+Accept-Language: ja,en-US;q=0.8,en;q=0.6
+Cookie: csrftoken=bdFa5sdOysCs0EtIxdBomR6uMfE2a1Iv
+If-Modified-Since: Sat, 16 Apr 2016 05:53:19 GMT
+
+127.0.0.1 - - [16/Apr/2016 14:53:35] "GET /data.txt HTTP/1.1" 200 -
+Host: 127.0.0.1:8000
+Connection: keep-alive
+Cache-Control: max-age=0
+Accept: text/html,application/xhtml+xml,application/xml;q=0.9,image/webp,*/*;q=0.8
+Upgrade-Insecure-Requests: 1
+User-Agent: Mozilla/5.0 (X11; Linux x86_64) AppleWebKit/537.36 (KHTML, like Gecko) Ubuntu Chromium/48.0.2564.82 Chrome/48.0.2564.82 Safari/537.36
+Referer: http://127.0.0.1:8000/
+Accept-Encoding: gzip, deflate, sdch
+Accept-Language: ja,en-US;q=0.8,en;q=0.6
+Cookie: csrftoken=bdFa5sdOysCs0EtIxdBomR6uMfE2a1Iv
+If-Modified-Since: Sat, 16 Apr 2016 05:53:19 GMT
+
+127.0.0.1 - - [16/Apr/2016 14:53:35] "GET /data.txt HTTP/1.1" 200 -
+Host: 127.0.0.1:8000
+Connection: keep-alive
+Cache-Control: max-age=0
+Accept: text/html,application/xhtml+xml,application/xml;q=0.9,image/webp,*/*;q=0.8
+Upgrade-Insecure-Requests: 1
+User-Agent: Mozilla/5.0 (X11; Linux x86_64) AppleWebKit/537.36 (KHTML, like Gecko) Ubuntu Chromium/48.0.2564.82 Chrome/48.0.2564.82 Safari/537.36
+Referer: http://127.0.0.1:8000/
+Accept-Encoding: gzip, deflate, sdch
+Accept-Language: ja,en-US;q=0.8,en;q=0.6
+Cookie: csrftoken=bdFa5sdOysCs0EtIxdBomR6uMfE2a1Iv
+If-Modified-Since: Sat, 16 Apr 2016 05:53:19 GMT
+
+127.0.0.1 - - [16/Apr/2016 14:53:35] "GET /data.txt HTTP/1.1" 200 -
+Host: 127.0.0.1:8000
+Connection: keep-alive
+Cache-Control: max-age=0
+Accept: text/html,application/xhtml+xml,application/xml;q=0.9,image/webp,*/*;q=0.8
+Upgrade-Insecure-Requests: 1
+User-Agent: Mozilla/5.0 (X11; Linux x86_64) AppleWebKit/537.36 (KHTML, like Gecko) Ubuntu Chromium/48.0.2564.82 Chrome/48.0.2564.82 Safari/537.36
+Referer: http://127.0.0.1:8000/
+Accept-Encoding: gzip, deflate, sdch
+Accept-Language: ja,en-US;q=0.8,en;q=0.6
+Cookie: csrftoken=bdFa5sdOysCs0EtIxdBomR6uMfE2a1Iv
+If-Modified-Since: Sat, 16 Apr 2016 05:53:19 GMT
+
+127.0.0.1 - - [16/Apr/2016 14:53:35] "GET /data.txt HTTP/1.1" 200 -
+Host: 127.0.0.1:8000
+Connection: keep-alive
+Cache-Control: max-age=0
+Accept: text/html,application/xhtml+xml,application/xml;q=0.9,image/webp,*/*;q=0.8
+Upgrade-Insecure-Requests: 1
+User-Agent: Mozilla/5.0 (X11; Linux x86_64) AppleWebKit/537.36 (KHTML, like Gecko) Ubuntu Chromium/48.0.2564.82 Chrome/48.0.2564.82 Safari/537.36
+Referer: http://127.0.0.1:8000/
+Accept-Encoding: gzip, deflate, sdch
+Accept-Language: ja,en-US;q=0.8,en;q=0.6
+Cookie: csrftoken=bdFa5sdOysCs0EtIxdBomR6uMfE2a1Iv
+If-Modified-Since: Sat, 16 Apr 2016 05:53:19 GMT
+
+127.0.0.1 - - [16/Apr/2016 14:53:35] "GET /data.txt HTTP/1.1" 200 -
+Host: 127.0.0.1:8000
+Connection: keep-alive
+Cache-Control: max-age=0
+Accept: text/html,application/xhtml+xml,application/xml;q=0.9,image/webp,*/*;q=0.8
+Upgrade-Insecure-Requests: 1
+User-Agent: Mozilla/5.0 (X11; Linux x86_64) AppleWebKit/537.36 (KHTML, like Gecko) Ubuntu Chromium/48.0.2564.82 Chrome/48.0.2564.82 Safari/537.36
+Referer: http://127.0.0.1:8000/
+Accept-Encoding: gzip, deflate, sdch
+Accept-Language: ja,en-US;q=0.8,en;q=0.6
+Cookie: csrftoken=bdFa5sdOysCs0EtIxdBomR6uMfE2a1Iv
+If-Modified-Since: Sat, 16 Apr 2016 05:53:19 GMT
+
+127.0.0.1 - - [16/Apr/2016 14:53:36] "GET /data.txt HTTP/1.1" 200 -
+Host: 127.0.0.1:8000
+Connection: keep-alive
+Cache-Control: max-age=0
+Accept: text/html,application/xhtml+xml,application/xml;q=0.9,image/webp,*/*;q=0.8
+Upgrade-Insecure-Requests: 1
+User-Agent: Mozilla/5.0 (X11; Linux x86_64) AppleWebKit/537.36 (KHTML, like Gecko) Ubuntu Chromium/48.0.2564.82 Chrome/48.0.2564.82 Safari/537.36
+Referer: http://127.0.0.1:8000/
+Accept-Encoding: gzip, deflate, sdch
+Accept-Language: ja,en-US;q=0.8,en;q=0.6
+Cookie: csrftoken=bdFa5sdOysCs0EtIxdBomR6uMfE2a1Iv
+If-Modified-Since: Sat, 16 Apr 2016 05:53:19 GMT
+
+127.0.0.1 - - [16/Apr/2016 14:53:36] "GET /data.txt HTTP/1.1" 200 -
+Host: 127.0.0.1:8000
+Connection: keep-alive
+Cache-Control: max-age=0
+Accept: text/html,application/xhtml+xml,application/xml;q=0.9,image/webp,*/*;q=0.8
+Upgrade-Insecure-Requests: 1
+User-Agent: Mozilla/5.0 (X11; Linux x86_64) AppleWebKit/537.36 (KHTML, like Gecko) Ubuntu Chromium/48.0.2564.82 Chrome/48.0.2564.82 Safari/537.36
+Referer: http://127.0.0.1:8000/
+Accept-Encoding: gzip, deflate, sdch
+Accept-Language: ja,en-US;q=0.8,en;q=0.6
+Cookie: csrftoken=bdFa5sdOysCs0EtIxdBomR6uMfE2a1Iv
+If-Modified-Since: Sat, 16 Apr 2016 05:53:19 GMT
+
+127.0.0.1 - - [16/Apr/2016 14:53:36] "GET /data.txt HTTP/1.1" 200 -
+Host: 127.0.0.1:8000
+Connection: keep-alive
+Cache-Control: max-age=0
+Accept: text/html,application/xhtml+xml,application/xml;q=0.9,image/webp,*/*;q=0.8
+Upgrade-Insecure-Requests: 1
+User-Agent: Mozilla/5.0 (X11; Linux x86_64) AppleWebKit/537.36 (KHTML, like Gecko) Ubuntu Chromium/48.0.2564.82 Chrome/48.0.2564.82 Safari/537.36
+Referer: http://127.0.0.1:8000/
+Accept-Encoding: gzip, deflate, sdch
+Accept-Language: ja,en-US;q=0.8,en;q=0.6
+Cookie: csrftoken=bdFa5sdOysCs0EtIxdBomR6uMfE2a1Iv
+If-Modified-Since: Sat, 16 Apr 2016 05:53:19 GMT
+
+127.0.0.1 - - [16/Apr/2016 14:53:36] "GET /data.txt HTTP/1.1" 200 -
+Host: 127.0.0.1:8000
+Connection: keep-alive
+Cache-Control: max-age=0
+Accept: text/html,application/xhtml+xml,application/xml;q=0.9,image/webp,*/*;q=0.8
+Upgrade-Insecure-Requests: 1
+User-Agent: Mozilla/5.0 (X11; Linux x86_64) AppleWebKit/537.36 (KHTML, like Gecko) Ubuntu Chromium/48.0.2564.82 Chrome/48.0.2564.82 Safari/537.36
+Referer: http://127.0.0.1:8000/
+Accept-Encoding: gzip, deflate, sdch
+Accept-Language: ja,en-US;q=0.8,en;q=0.6
+Cookie: csrftoken=bdFa5sdOysCs0EtIxdBomR6uMfE2a1Iv
+If-Modified-Since: Sat, 16 Apr 2016 05:53:19 GMT
+
+127.0.0.1 - - [16/Apr/2016 14:53:36] "GET /data.txt HTTP/1.1" 200 -
+Host: 127.0.0.1:8000
+Connection: keep-alive
+Cache-Control: max-age=0
+Accept: text/html,application/xhtml+xml,application/xml;q=0.9,image/webp,*/*;q=0.8
+Upgrade-Insecure-Requests: 1
+User-Agent: Mozilla/5.0 (X11; Linux x86_64) AppleWebKit/537.36 (KHTML, like Gecko) Ubuntu Chromium/48.0.2564.82 Chrome/48.0.2564.82 Safari/537.36
+Referer: http://127.0.0.1:8000/
+Accept-Encoding: gzip, deflate, sdch
+Accept-Language: ja,en-US;q=0.8,en;q=0.6
+Cookie: csrftoken=bdFa5sdOysCs0EtIxdBomR6uMfE2a1Iv
+If-Modified-Since: Sat, 16 Apr 2016 05:53:19 GMT
+
+127.0.0.1 - - [16/Apr/2016 14:53:36] "GET /data.txt HTTP/1.1" 200 -
+Host: 127.0.0.1:8000
+Connection: keep-alive
+Cache-Control: max-age=0
+Accept: text/html,application/xhtml+xml,application/xml;q=0.9,image/webp,*/*;q=0.8
+Upgrade-Insecure-Requests: 1
+User-Agent: Mozilla/5.0 (X11; Linux x86_64) AppleWebKit/537.36 (KHTML, like Gecko) Ubuntu Chromium/48.0.2564.82 Chrome/48.0.2564.82 Safari/537.36
+Referer: http://127.0.0.1:8000/
+Accept-Encoding: gzip, deflate, sdch
+Accept-Language: ja,en-US;q=0.8,en;q=0.6
+Cookie: csrftoken=bdFa5sdOysCs0EtIxdBomR6uMfE2a1Iv
+If-Modified-Since: Sat, 16 Apr 2016 05:53:19 GMT
+
+127.0.0.1 - - [16/Apr/2016 14:53:36] "GET /data.txt HTTP/1.1" 200 -
+Host: 127.0.0.1:8000
+Connection: keep-alive
+Cache-Control: max-age=0
+Accept: text/html,application/xhtml+xml,application/xml;q=0.9,image/webp,*/*;q=0.8
+Upgrade-Insecure-Requests: 1
+User-Agent: Mozilla/5.0 (X11; Linux x86_64) AppleWebKit/537.36 (KHTML, like Gecko) Ubuntu Chromium/48.0.2564.82 Chrome/48.0.2564.82 Safari/537.36
+Referer: http://127.0.0.1:8000/
+Accept-Encoding: gzip, deflate, sdch
+Accept-Language: ja,en-US;q=0.8,en;q=0.6
+Cookie: csrftoken=bdFa5sdOysCs0EtIxdBomR6uMfE2a1Iv
+If-Modified-Since: Sat, 16 Apr 2016 05:53:19 GMT
+
+127.0.0.1 - - [16/Apr/2016 14:53:37] "GET /data.txt HTTP/1.1" 200 -
+Host: 127.0.0.1:8000
+Connection: keep-alive
+Cache-Control: max-age=0
+Accept: text/html,application/xhtml+xml,application/xml;q=0.9,image/webp,*/*;q=0.8
+Upgrade-Insecure-Requests: 1
+User-Agent: Mozilla/5.0 (X11; Linux x86_64) AppleWebKit/537.36 (KHTML, like Gecko) Ubuntu Chromium/48.0.2564.82 Chrome/48.0.2564.82 Safari/537.36
+Referer: http://127.0.0.1:8000/
+Accept-Encoding: gzip, deflate, sdch
+Accept-Language: ja,en-US;q=0.8,en;q=0.6
+Cookie: csrftoken=bdFa5sdOysCs0EtIxdBomR6uMfE2a1Iv
+If-Modified-Since: Sat, 16 Apr 2016 05:53:19 GMT
+
+127.0.0.1 - - [16/Apr/2016 14:53:37] "GET /data.txt HTTP/1.1" 200 -
+Host: 127.0.0.1:8000
+Connection: keep-alive
+Cache-Control: max-age=0
+Accept: text/html,application/xhtml+xml,application/xml;q=0.9,image/webp,*/*;q=0.8
+Upgrade-Insecure-Requests: 1
+User-Agent: Mozilla/5.0 (X11; Linux x86_64) AppleWebKit/537.36 (KHTML, like Gecko) Ubuntu Chromium/48.0.2564.82 Chrome/48.0.2564.82 Safari/537.36
+Referer: http://127.0.0.1:8000/
+Accept-Encoding: gzip, deflate, sdch
+Accept-Language: ja,en-US;q=0.8,en;q=0.6
+Cookie: csrftoken=bdFa5sdOysCs0EtIxdBomR6uMfE2a1Iv
+If-Modified-Since: Sat, 16 Apr 2016 05:53:19 GMT
+
+127.0.0.1 - - [16/Apr/2016 14:53:37] "GET /data.txt HTTP/1.1" 200 -
+Host: 127.0.0.1:8000
+Connection: keep-alive
+Cache-Control: max-age=0
+Accept: text/html,application/xhtml+xml,application/xml;q=0.9,image/webp,*/*;q=0.8
+Upgrade-Insecure-Requests: 1
+User-Agent: Mozilla/5.0 (X11; Linux x86_64) AppleWebKit/537.36 (KHTML, like Gecko) Ubuntu Chromium/48.0.2564.82 Chrome/48.0.2564.82 Safari/537.36
+Referer: http://127.0.0.1:8000/
+Accept-Encoding: gzip, deflate, sdch
+Accept-Language: ja,en-US;q=0.8,en;q=0.6
+Cookie: csrftoken=bdFa5sdOysCs0EtIxdBomR6uMfE2a1Iv
+If-Modified-Since: Sat, 16 Apr 2016 05:53:19 GMT
+
+127.0.0.1 - - [16/Apr/2016 14:53:37] "GET /data.txt HTTP/1.1" 200 -
+Host: 127.0.0.1:8000
+Connection: keep-alive
+Cache-Control: max-age=0
+Accept: text/html,application/xhtml+xml,application/xml;q=0.9,image/webp,*/*;q=0.8
+Upgrade-Insecure-Requests: 1
+User-Agent: Mozilla/5.0 (X11; Linux x86_64) AppleWebKit/537.36 (KHTML, like Gecko) Ubuntu Chromium/48.0.2564.82 Chrome/48.0.2564.82 Safari/537.36
+Referer: http://127.0.0.1:8000/
+Accept-Encoding: gzip, deflate, sdch
+Accept-Language: ja,en-US;q=0.8,en;q=0.6
+Cookie: csrftoken=bdFa5sdOysCs0EtIxdBomR6uMfE2a1Iv
+If-Modified-Since: Sat, 16 Apr 2016 05:53:19 GMT
+
+127.0.0.1 - - [16/Apr/2016 14:53:37] "GET /data.txt HTTP/1.1" 200 -
+Host: 127.0.0.1:8000
+Connection: keep-alive
+Cache-Control: max-age=0
+Accept: text/html,application/xhtml+xml,application/xml;q=0.9,image/webp,*/*;q=0.8
+Upgrade-Insecure-Requests: 1
+User-Agent: Mozilla/5.0 (X11; Linux x86_64) AppleWebKit/537.36 (KHTML, like Gecko) Ubuntu Chromium/48.0.2564.82 Chrome/48.0.2564.82 Safari/537.36
+Referer: http://127.0.0.1:8000/
+Accept-Encoding: gzip, deflate, sdch
+Accept-Language: ja,en-US;q=0.8,en;q=0.6
+Cookie: csrftoken=bdFa5sdOysCs0EtIxdBomR6uMfE2a1Iv
+If-Modified-Since: Sat, 16 Apr 2016 05:53:19 GMT
+
+127.0.0.1 - - [16/Apr/2016 14:53:37] "GET /data.txt HTTP/1.1" 200 -
+Host: 127.0.0.1:8000
+Connection: keep-alive
+Cache-Control: max-age=0
+Accept: text/html,application/xhtml+xml,application/xml;q=0.9,image/webp,*/*;q=0.8
+Upgrade-Insecure-Requests: 1
+User-Agent: Mozilla/5.0 (X11; Linux x86_64) AppleWebKit/537.36 (KHTML, like Gecko) Ubuntu Chromium/48.0.2564.82 Chrome/48.0.2564.82 Safari/537.36
+Referer: http://127.0.0.1:8000/
+Accept-Encoding: gzip, deflate, sdch
+Accept-Language: ja,en-US;q=0.8,en;q=0.6
+Cookie: csrftoken=bdFa5sdOysCs0EtIxdBomR6uMfE2a1Iv
+If-Modified-Since: Sat, 16 Apr 2016 05:53:19 GMT
+
+127.0.0.1 - - [16/Apr/2016 14:54:03] "POST /cgi-bin/index.py HTTP/1.1" 200 -
+Host: 127.0.0.1:8000
+User-Agent: Mozilla/5.0 (X11; Ubuntu; Linux x86_64; rv:44.0) Gecko/20100101 Firefox/44.0
+Accept: text/html,application/xhtml+xml,application/xml;q=0.9,*/*;q=0.8
+Accept-Language: en-US,en;q=0.5
+Accept-Encoding: gzip, deflate
+Referer: http://127.0.0.1:8000/cgi-bin/index.py
+Connection: keep-alive
+Cache-Control: max-age=0
+Content-Type: application/x-www-form-urlencoded
+Content-Length: 15
+
+127.0.0.1 - - [16/Apr/2016 15:05:16] "GET /" 200 -
+
+127.0.0.1 - - [16/Apr/2016 15:05:41] "GET /cgi-bin/index.py" 200 -
+
+127.0.0.1 - - [16/Apr/2016 15:07:00] "GET /cgi-bin/index.py" 200 -
+
+127.0.0.1 - - [16/Apr/2016 15:35:22] "GET /cgi-bin/index.py HTTP/1.0" 200 -
+Host: 127.0.0.1:8000
+User-Agent: Python-urllib/1.17
+
+127.0.0.1 - - [16/Apr/2016 15:36:25] "GET /cgi-bin/index.py HTTP/1.0" 200 -
+Host: 127.0.0.1:8000
+User-Agent: Python-urllib/1.17
+
+127.0.0.1 - - [16/Apr/2016 15:36:34] "GET /cgi-bin/index.py" 200 -
+
+127.0.0.1 - - [16/Apr/2016 15:37:04] "GET /cgi-bin/index.py HTTP/1.0" 200 -
+Host: 127.0.0.1:8000
+User-Agent: Python-urllib/1.17
+
+127.0.0.1 - - [16/Apr/2016 15:37:17] "GET /cgi-bin/index.py HTTP/1.0" 200 -
+Host: 127.0.0.1:8000
+User-Agent: Python-urllib/1.17
+
+127.0.0.1 - - [16/Apr/2016 15:40:20] "GET /cgi-bin/index.py HTTP/1.1" 200 -
+Host: 127.0.0.1:8000
+User-Agent: Mozilla/5.0 (X11; Ubuntu; Linux x86_64; rv:44.0) Gecko/20100101 Firefox/44.0
+Accept: text/html,application/xhtml+xml,application/xml;q=0.9,*/*;q=0.8
+Accept-Language: en-US,en;q=0.5
+Accept-Encoding: gzip, deflate
+Connection: keep-alive
+
+127.0.0.1 - - [16/Apr/2016 15:45:25] code 404, message File not found
+Accept-Encoding: identity
+Host: 127.0.0.1:8000
+Connection: close
+User-Agent: Python-urllib/2.7
+
+127.0.0.1 - - [16/Apr/2016 15:45:25] "GET /robots.txt HTTP/1.1" 404 -
+Accept-Encoding: identity
+Host: 127.0.0.1:8000
+Connection: close
+User-Agent: Python-urllib/2.7
+
+127.0.0.1 - - [16/Apr/2016 15:45:25] "GET /cgi-bin/index.py HTTP/1.1" 200 -
+Accept-Encoding: identity
+Host: 127.0.0.1:8000
+Connection: close
+User-Agent: Python-urllib/2.7
+
+127.0.0.1 - - [16/Apr/2016 15:46:22] code 404, message File not found
+Accept-Encoding: identity
+Host: 127.0.0.1:8000
+Connection: close
+User-Agent: Python-urllib/2.7
+
+127.0.0.1 - - [16/Apr/2016 15:46:22] "GET /robots.txt HTTP/1.1" 404 -
+Accept-Encoding: identity
+Host: 127.0.0.1:8000
+Connection: close
+User-Agent: Python-urllib/2.7
+
+127.0.0.1 - - [16/Apr/2016 15:46:22] "GET /cgi-bin/index.py HTTP/1.1" 200 -
+Accept-Encoding: identity
+Host: 127.0.0.1:8000
+Connection: close
+User-Agent: Python-urllib/2.7
+
+127.0.0.1 - - [16/Apr/2016 15:46:48] code 404, message File not found
+Accept-Encoding: identity
+Host: 127.0.0.1:8000
+Connection: close
+User-Agent: Python-urllib/2.7
+
+127.0.0.1 - - [16/Apr/2016 15:46:48] "GET /robots.txt HTTP/1.1" 404 -
+Accept-Encoding: identity
+Host: 127.0.0.1:8000
+Connection: close
+User-Agent: Python-urllib/2.7
+
+127.0.0.1 - - [16/Apr/2016 15:46:48] "GET /cgi-bin/index.py HTTP/1.1" 200 -
+Accept-Encoding: identity
+Host: 127.0.0.1:8000
+Connection: close
+User-Agent: Python-urllib/2.7
+
+127.0.0.1 - - [16/Apr/2016 15:47:54] code 404, message File not found
+Accept-Encoding: identity
+Host: 127.0.0.1:8000
+Connection: close
+User-Agent: Python-urllib/2.7
+
+127.0.0.1 - - [16/Apr/2016 15:47:54] "GET /robots.txt HTTP/1.1" 404 -
+Accept-Encoding: identity
+Host: 127.0.0.1:8000
+Connection: close
+User-Agent: Python-urllib/2.7
+
+127.0.0.1 - - [16/Apr/2016 15:47:54] "GET /cgi-bin/index.py HTTP/1.1" 200 -
+Accept-Encoding: identity
+Host: 127.0.0.1:8000
+Connection: close
+User-Agent: Python-urllib/2.7
+
+127.0.0.1 - - [16/Apr/2016 15:49:21] code 404, message File not found
+Accept-Encoding: identity
+Host: 127.0.0.1:8000
+Connection: close
+User-Agent: Python-urllib/2.7
+
+127.0.0.1 - - [16/Apr/2016 15:49:21] "GET /robots.txt HTTP/1.1" 404 -
+Accept-Encoding: identity
+Host: 127.0.0.1:8000
+Connection: close
+User-Agent: Python-urllib/2.7
+
+127.0.0.1 - - [16/Apr/2016 15:49:21] "GET /cgi-bin/index.py HTTP/1.1" 200 -
+Accept-Encoding: identity
+Host: 127.0.0.1:8000
+Connection: close
+User-Agent: Python-urllib/2.7
+
+127.0.0.1 - - [16/Apr/2016 15:49:30] code 404, message File not found
+Accept-Encoding: identity
+Host: 127.0.0.1:8000
+Connection: close
+User-Agent: Python-urllib/2.7
+
+127.0.0.1 - - [16/Apr/2016 15:49:30] "GET /robots.txt HTTP/1.1" 404 -
+Accept-Encoding: identity
+Host: 127.0.0.1:8000
+Connection: close
+User-Agent: Python-urllib/2.7
+
+127.0.0.1 - - [16/Apr/2016 15:49:30] "GET /cgi-bin/index.py HTTP/1.1" 200 -
+Accept-Encoding: identity
+Host: 127.0.0.1:8000
+Connection: close
+User-Agent: Python-urllib/2.7
+
+127.0.0.1 - - [16/Apr/2016 15:49:55] code 404, message File not found
+Accept-Encoding: identity
+Host: 127.0.0.1:8000
+Connection: close
+User-Agent: Python-urllib/2.7
+
+127.0.0.1 - - [16/Apr/2016 15:49:55] "GET /robots.txt HTTP/1.1" 404 -
+Accept-Encoding: identity
+Host: 127.0.0.1:8000
+Connection: close
+User-Agent: Python-urllib/2.7
+
+127.0.0.1 - - [16/Apr/2016 15:49:55] "GET /cgi-bin/index.py HTTP/1.1" 200 -
+Accept-Encoding: identity
+Host: 127.0.0.1:8000
+Connection: close
+User-Agent: Python-urllib/2.7
+
+127.0.0.1 - - [16/Apr/2016 15:51:14] code 404, message File not found
+Accept-Encoding: identity
+Host: 127.0.0.1:8000
+Connection: close
+User-Agent: Python-urllib/2.7
+
+127.0.0.1 - - [16/Apr/2016 15:51:14] "GET /robots.txt HTTP/1.1" 404 -
+Accept-Encoding: identity
+Host: 127.0.0.1:8000
+Connection: close
+User-Agent: Python-urllib/2.7
+
+127.0.0.1 - - [16/Apr/2016 15:51:14] "GET /cgi-bin/index.py HTTP/1.1" 200 -
+Accept-Encoding: identity
+Host: 127.0.0.1:8000
+Connection: close
+User-Agent: Python-urllib/2.7
+
+127.0.0.1 - - [16/Apr/2016 15:53:47] code 404, message File not found
+Accept-Encoding: identity
+Host: 127.0.0.1:8000
+Connection: close
+User-Agent: Python-urllib/2.7
+
+127.0.0.1 - - [16/Apr/2016 15:53:47] "GET /robots.txt HTTP/1.1" 404 -
+Accept-Encoding: identity
+Host: 127.0.0.1:8000
+Connection: close
+User-Agent: Python-urllib/2.7
+
+127.0.0.1 - - [16/Apr/2016 15:53:47] "GET /cgi-bin/index.py HTTP/1.1" 200 -
+Accept-Encoding: identity
+Host: 127.0.0.1:8000
+Connection: close
+User-Agent: Python-urllib/2.7
+
+127.0.0.1 - - [16/Apr/2016 15:54:42] code 404, message File not found
+Accept-Encoding: identity
+Host: 127.0.0.1:8000
+Connection: close
+User-Agent: Python-urllib/2.7
+
+127.0.0.1 - - [16/Apr/2016 15:54:42] "GET /robots.txt HTTP/1.1" 404 -
+Accept-Encoding: identity
+Host: 127.0.0.1:8000
+Connection: close
+User-Agent: Python-urllib/2.7
+
+127.0.0.1 - - [16/Apr/2016 15:54:42] "GET /cgi-bin/index.py HTTP/1.1" 200 -
+Accept-Encoding: identity
+Host: 127.0.0.1:8000
+Connection: close
+User-Agent: Python-urllib/2.7
+
+127.0.0.1 - - [16/Apr/2016 15:55:26] code 404, message File not found
+Accept-Encoding: identity
+Host: 127.0.0.1:8000
+Connection: close
+User-Agent: Python-urllib/2.7
+
+127.0.0.1 - - [16/Apr/2016 15:55:26] "GET /robots.txt HTTP/1.1" 404 -
+Accept-Encoding: identity
+Host: 127.0.0.1:8000
+Connection: close
+User-Agent: Python-urllib/2.7
+
+127.0.0.1 - - [16/Apr/2016 15:55:26] "GET /cgi-bin/index.py HTTP/1.1" 200 -
+Accept-Encoding: identity
+Host: 127.0.0.1:8000
+Connection: close
+User-Agent: Python-urllib/2.7
+
+127.0.0.1 - - [16/Apr/2016 15:59:26] code 404, message File not found
+Accept-Encoding: identity
+Host: 127.0.0.1:8000
+Connection: close
+User-Agent: Python-urllib/2.7
+
+127.0.0.1 - - [16/Apr/2016 15:59:26] "GET /robots.txt HTTP/1.1" 404 -
+Accept-Encoding: identity
+Host: 127.0.0.1:8000
+Connection: close
+User-Agent: Python-urllib/2.7
+
+127.0.0.1 - - [16/Apr/2016 15:59:26] "GET /cgi-bin/index.py HTTP/1.1" 200 -
+Accept-Encoding: identity
+Host: 127.0.0.1:8000
+Connection: close
+User-Agent: Python-urllib/2.7
+
+127.0.0.1 - - [16/Apr/2016 16:01:16] code 404, message File not found
+Accept-Encoding: identity
+Host: 127.0.0.1:8000
+Connection: close
+User-Agent: Python-urllib/2.7
+
+127.0.0.1 - - [16/Apr/2016 16:01:16] "GET /robots.txt HTTP/1.1" 404 -
+Accept-Encoding: identity
+Host: 127.0.0.1:8000
+Connection: close
+User-Agent: Python-urllib/2.7
+
+127.0.0.1 - - [16/Apr/2016 16:01:16] "GET /cgi-bin/index.py HTTP/1.1" 200 -
+Accept-Encoding: identity
+Host: 127.0.0.1:8000
+Connection: close
+User-Agent: Python-urllib/2.7
+
+127.0.0.1 - - [16/Apr/2016 16:03:23] "GET /cgi-bin/index.py HTTP/1.1" 200 -
+Host: 127.0.0.1:8000
+Connection: keep-alive
+Accept: text/html,application/xhtml+xml,application/xml;q=0.9,image/webp,*/*;q=0.8
+Upgrade-Insecure-Requests: 1
+User-Agent: Mozilla/5.0 (X11; Linux x86_64) AppleWebKit/537.36 (KHTML, like Gecko) Ubuntu Chromium/48.0.2564.82 Chrome/48.0.2564.82 Safari/537.36
+Accept-Encoding: gzip, deflate, sdch
+Accept-Language: ja,en-US;q=0.8,en;q=0.6
+Cookie: csrftoken=bdFa5sdOysCs0EtIxdBomR6uMfE2a1Iv
+
+127.0.0.1 - - [16/Apr/2016 16:03:27] "POST /cgi-bin/index.py HTTP/1.1" 200 -
+Host: 127.0.0.1:8000
+Connection: keep-alive
+Content-Length: 15
+Cache-Control: max-age=0
+Accept: text/html,application/xhtml+xml,application/xml;q=0.9,image/webp,*/*;q=0.8
+Origin: http://127.0.0.1:8000
+Upgrade-Insecure-Requests: 1
+User-Agent: Mozilla/5.0 (X11; Linux x86_64) AppleWebKit/537.36 (KHTML, like Gecko) Ubuntu Chromium/48.0.2564.82 Chrome/48.0.2564.82 Safari/537.36
+Content-Type: application/x-www-form-urlencoded
+Referer: http://127.0.0.1:8000/cgi-bin/index.py
+Accept-Encoding: gzip, deflate
+Accept-Language: ja,en-US;q=0.8,en;q=0.6
+Cookie: csrftoken=bdFa5sdOysCs0EtIxdBomR6uMfE2a1Iv
+
+127.0.0.1 - - [16/Apr/2016 16:04:20] code 404, message File not found
+Accept-Encoding: identity
+Host: 127.0.0.1:8000
+Connection: close
+User-Agent: Python-urllib/2.7
+
+127.0.0.1 - - [16/Apr/2016 16:04:20] "GET /robots.txt HTTP/1.1" 404 -
+Accept-Encoding: identity
+Host: 127.0.0.1:8000
+Connection: close
+User-Agent: Python-urllib/2.7
+
+127.0.0.1 - - [16/Apr/2016 16:04:20] "GET /cgi-bin/index.py HTTP/1.1" 200 -
+Accept-Encoding: identity
+Host: 127.0.0.1:8000
+Connection: close
+User-Agent: Python-urllib/2.7
+
+127.0.0.1 - - [16/Apr/2016 16:05:18] "GET /cgi-bin/index.py HTTP/1.0" 200 -
+Host: 127.0.0.1:8000
+User-Agent: Python-urllib/1.17
+
+127.0.0.1 - - [16/Apr/2016 16:05:49] "GET /cgi-bin/index.py HTTP/1.0" 200 -
+Host: 127.0.0.1:8000
+User-Agent: Python-urllib/1.17
+
+127.0.0.1 - - [16/Apr/2016 16:06:50] "GET /cgi-bin/index.py HTTP/1.0" 200 -
+Host: 127.0.0.1:8000
+User-Agent: Python-urllib/1.17
+
+127.0.0.1 - - [16/Apr/2016 16:07:09] "GET /cgi-bin/index.py HTTP/1.0" 200 -
+Host: 127.0.0.1:8000
+User-Agent: Python-urllib/1.17
+
+127.0.0.1 - - [16/Apr/2016 16:10:53] code 404, message File not found
+Accept-Encoding: identity
+Host: 127.0.0.1:8000
+Connection: close
+User-Agent: Python-urllib/2.7
+
+127.0.0.1 - - [16/Apr/2016 16:10:53] "GET /robots.txt HTTP/1.1" 404 -
+Accept-Encoding: identity
+Host: 127.0.0.1:8000
+Connection: close
+User-Agent: Python-urllib/2.7
+
+127.0.0.1 - - [16/Apr/2016 16:10:53] "POST /cgi-bin/index.py HTTP/1.1" 200 -
+Host: 127.0.0.1:8000
+User-Agent: Mozilla/5.0 (X11; Ubuntu; Linux x86_64; rv:44.0) Gecko/20100101 Firefox/44.0
+Accept: text/html,application/xhtml+xml,application/xml;q=0.9,*/*;q=0.8
+Accept-Language: en-US,en;q=0.5
+Accept-Encoding: gzip, deflate
+Referer: http://127.0.0.1:8000/cgi-bin/index.py
+Connection: keep-alive
+Cache-Control: max-age=0
+Content-Type: application/x-www-form-urlencoded
+Content-Length: 15
+
+127.0.0.1 - - [16/Apr/2016 16:10:53] code 404, message File not found
+Accept-Encoding: identity
+Host: 127.0.0.1:8000
+Connection: close
+User-Agent: Python-urllib/2.7
+
+127.0.0.1 - - [16/Apr/2016 16:10:53] "GET /robots.txt HTTP/1.1" 404 -
+Accept-Encoding: identity
+Host: 127.0.0.1:8000
+Connection: close
+User-Agent: Python-urllib/2.7
+
+127.0.0.1 - - [16/Apr/2016 16:10:53] "POST /cgi-bin/index.py HTTP/1.1" 200 -
+Host: 127.0.0.1:8000
+User-Agent: Mozilla/5.0 (X11; Ubuntu; Linux x86_64; rv:44.0) Gecko/20100101 Firefox/44.0
+Accept: text/html,application/xhtml+xml,application/xml;q=0.9,*/*;q=0.8
+Accept-Language: en-US,en;q=0.5
+Accept-Encoding: gzip, deflate
+Referer: http://127.0.0.1:8000/cgi-bin/index.py
+Connection: keep-alive
+Cache-Control: max-age=0
+Content-Type: application/x-www-form-urlencoded
+Content-Length: 15
+
+127.0.0.1 - - [16/Apr/2016 16:10:53] "GET /cgi-bin/index.py HTTP/1.1" 200 -
+Accept-Encoding: identity
+Host: 127.0.0.1:8000
+Connection: close
+User-Agent: Python-urllib/2.7
+
+127.0.0.1 - - [16/Apr/2016 16:11:13] "POST /cgi-bin/index.py HTTP/1.1" 200 -
+Host: 127.0.0.1:8000
+User-Agent: Mozilla/5.0 (X11; Ubuntu; Linux x86_64; rv:44.0) Gecko/20100101 Firefox/44.0
+Accept: text/html,application/xhtml+xml,application/xml;q=0.9,*/*;q=0.8
+Accept-Language: en-US,en;q=0.5
+Accept-Encoding: gzip, deflate
+Referer: http://127.0.0.1:8000/cgi-bin/index.py
+Connection: keep-alive
+Cache-Control: max-age=0
+Content-Type: application/x-www-form-urlencoded
+Content-Length: 15
+
+127.0.0.1 - - [16/Apr/2016 16:11:20] code 404, message File not found
+Accept-Encoding: identity
+Host: 127.0.0.1:8000
+Connection: close
+User-Agent: Python-urllib/2.7
+
+127.0.0.1 - - [16/Apr/2016 16:11:20] "GET /robots.txt HTTP/1.1" 404 -
+Accept-Encoding: identity
+Host: 127.0.0.1:8000
+Connection: close
+User-Agent: Python-urllib/2.7
+
+127.0.0.1 - - [16/Apr/2016 16:11:20] "GET /cgi-bin/index.py HTTP/1.1" 200 -
+Accept-Encoding: identity
+Host: 127.0.0.1:8000
+Connection: close
+User-Agent: Python-urllib/2.7
+
+127.0.0.1 - - [16/Apr/2016 16:12:17] code 404, message File not found
+Accept-Encoding: identity
+Host: 127.0.0.1:8000
+Connection: close
+User-Agent: Python-urllib/2.7
+
+127.0.0.1 - - [16/Apr/2016 16:12:17] "GET /robots.txt HTTP/1.1" 404 -
+Accept-Encoding: identity
+Host: 127.0.0.1:8000
+Connection: close
+User-Agent: Python-urllib/2.7
+
+127.0.0.1 - - [16/Apr/2016 16:12:17] "GET /cgi-bin/index.py HTTP/1.1" 200 -
+Accept-Encoding: identity
+Host: 127.0.0.1:8000
+Connection: close
+User-Agent: Python-urllib/2.7
+
+127.0.0.1 - - [16/Apr/2016 16:12:49] code 404, message File not found
+Accept-Encoding: identity
+Host: 127.0.0.1:8000
+Connection: close
+User-Agent: Python-urllib/2.7
+
+127.0.0.1 - - [16/Apr/2016 16:12:49] "GET /robots.txt HTTP/1.1" 404 -
+Accept-Encoding: identity
+Host: 127.0.0.1:8000
+Connection: close
+User-Agent: Python-urllib/2.7
+
+127.0.0.1 - - [16/Apr/2016 16:12:49] "GET /cgi-bin/index.py HTTP/1.1" 200 -
+Accept-Encoding: identity
+Host: 127.0.0.1:8000
+Connection: close
+User-Agent: Python-urllib/2.7
+
+127.0.0.1 - - [16/Apr/2016 16:13:12] code 404, message File not found
+Accept-Encoding: identity
+Host: 127.0.0.1:8000
+Connection: close
+User-Agent: Python-urllib/2.7
+
+127.0.0.1 - - [16/Apr/2016 16:13:12] "GET /robots.txt HTTP/1.1" 404 -
+Accept-Encoding: identity
+Host: 127.0.0.1:8000
+Connection: close
+User-Agent: Python-urllib/2.7
+
+127.0.0.1 - - [16/Apr/2016 16:13:12] "GET /cgi-bin/index.py HTTP/1.1" 200 -
+Accept-Encoding: identity
+Host: 127.0.0.1:8000
+Connection: close
+User-Agent: Python-urllib/2.7
+
+127.0.0.1 - - [16/Apr/2016 16:13:12] "POST /cgi-bin/index.py HTTP/1.1" 200 -
+Accept-Encoding: identity
+Content-Length: 34
+Host: 127.0.0.1:8000
+User-Agent: Python-urllib/2.7
+Connection: close
+Referer: http://127.0.0.1:8000/cgi-bin/index.py
+Content-Type: application/x-www-form-urlencoded
+
+127.0.0.1 - - [16/Apr/2016 16:14:15] "POST /cgi-bin/index.py HTTP/1.1" 200 -
+Host: 127.0.0.1:8000
+User-Agent: Mozilla/5.0 (X11; Ubuntu; Linux x86_64; rv:44.0) Gecko/20100101 Firefox/44.0
+Accept: text/html,application/xhtml+xml,application/xml;q=0.9,*/*;q=0.8
+Accept-Language: en-US,en;q=0.5
+Accept-Encoding: gzip, deflate
+Referer: http://127.0.0.1:8000/cgi-bin/index.py
+Connection: keep-alive
+Content-Type: application/x-www-form-urlencoded
+Content-Length: 45
+
+127.0.0.1 - - [16/Apr/2016 16:14:21] "POST /cgi-bin/index.py HTTP/1.1" 200 -
+Host: 127.0.0.1:8000
+User-Agent: Mozilla/5.0 (X11; Ubuntu; Linux x86_64; rv:44.0) Gecko/20100101 Firefox/44.0
+Accept: text/html,application/xhtml+xml,application/xml;q=0.9,*/*;q=0.8
+Accept-Language: en-US,en;q=0.5
+Accept-Encoding: gzip, deflate
+Referer: http://127.0.0.1:8000/cgi-bin/index.py
+Connection: keep-alive
+Cache-Control: max-age=0
+Content-Type: application/x-www-form-urlencoded
+Content-Length: 45
+
+127.0.0.1 - - [16/Apr/2016 16:15:02] "POST /cgi-bin/index.py HTTP/1.1" 200 -
+Host: 127.0.0.1:8000
+User-Agent: Mozilla/5.0 (X11; Ubuntu; Linux x86_64; rv:44.0) Gecko/20100101 Firefox/44.0
+Accept: text/html,application/xhtml+xml,application/xml;q=0.9,*/*;q=0.8
+Accept-Language: en-US,en;q=0.5
+Accept-Encoding: gzip, deflate
+Referer: http://127.0.0.1:8000/cgi-bin/index.py
+Connection: keep-alive
+Cache-Control: max-age=0
+Content-Type: application/x-www-form-urlencoded
+Content-Length: 45
+
+127.0.0.1 - - [16/Apr/2016 16:15:52] "POST /cgi-bin/index.py HTTP/1.1" 200 -
+Host: 127.0.0.1:8000
+User-Agent: Mozilla/5.0 (X11; Ubuntu; Linux x86_64; rv:44.0) Gecko/20100101 Firefox/44.0
+Accept: text/html,application/xhtml+xml,application/xml;q=0.9,*/*;q=0.8
+Accept-Language: en-US,en;q=0.5
+Accept-Encoding: gzip, deflate
+Referer: http://127.0.0.1:8000/cgi-bin/index.py
+Connection: keep-alive
+Content-Type: application/x-www-form-urlencoded
+Content-Length: 45
+
+127.0.0.1 - - [16/Apr/2016 16:15:56] "POST /cgi-bin/index.py HTTP/1.1" 200 -
+Host: 127.0.0.1:8000
+User-Agent: Mozilla/5.0 (X11; Ubuntu; Linux x86_64; rv:44.0) Gecko/20100101 Firefox/44.0
+Accept: text/html,application/xhtml+xml,application/xml;q=0.9,*/*;q=0.8
+Accept-Language: en-US,en;q=0.5
+Accept-Encoding: gzip, deflate
+Referer: http://127.0.0.1:8000/cgi-bin/index.py
+Connection: keep-alive
+Cache-Control: max-age=0
+Content-Type: application/x-www-form-urlencoded
+Content-Length: 45
+
+127.0.0.1 - - [16/Apr/2016 16:17:45] "GET /cgi-bin/index.py HTTP/1.0" 200 -
+Host: 127.0.0.1:8000
+User-Agent: Python-urllib/1.17
+
+127.0.0.1 - - [16/Apr/2016 16:25:03] "GET /cgi-bin/index.py HTTP/1.0" 200 -
+Host: 127.0.0.1:8000
+User-Agent: Python-urllib/1.17
+
+127.0.0.1 - - [16/Apr/2016 16:28:21] "GET /cgi-bin/index.py HTTP/1.0" 200 -
+Host: 127.0.0.1:8000
+User-Agent: Python-urllib/1.17
+
+127.0.0.1 - - [16/Apr/2016 16:31:36] "GET /cgi-bin/index.py HTTP/1.0" 200 -
+Host: 127.0.0.1:8000
+User-Agent: Python-urllib/1.17
+
+127.0.0.1 - - [16/Apr/2016 16:31:36] code 404, message File not found
+Accept-Encoding: identity
+Host: 127.0.0.1:8000
+Connection: close
+User-Agent: Python-urllib/2.7
+
+127.0.0.1 - - [16/Apr/2016 16:31:36] "GET /robots.txt HTTP/1.1" 404 -
+Accept-Encoding: identity
+Host: 127.0.0.1:8000
+Connection: close
+User-Agent: Python-urllib/2.7
+
+127.0.0.1 - - [16/Apr/2016 16:31:36] "GET /cgi-bin/index.py HTTP/1.1" 200 -
+Accept-Encoding: identity
+Host: 127.0.0.1:8000
+Connection: close
+User-Agent: Python-urllib/2.7
+
+127.0.0.1 - - [16/Apr/2016 16:34:22] "GET /cgi-bin/index.py HTTP/1.0" 200 -
+Host: 127.0.0.1:8000
+User-Agent: Python-urllib/1.17
+
+127.0.0.1 - - [16/Apr/2016 16:36:38] "GET /cgi-bin/index.py HTTP/1.0" 200 -
+Host: 127.0.0.1:8000
+User-Agent: Python-urllib/1.17
+
+127.0.0.1 - - [16/Apr/2016 16:38:24] "GET /cgi-bin/index.py HTTP/1.0" 200 -
+Host: 127.0.0.1:8000
+User-Agent: Python-urllib/1.17
+
+127.0.0.1 - - [16/Apr/2016 16:38:36] "GET /cgi-bin/index.py HTTP/1.0" 200 -
+Host: 127.0.0.1:8000
+User-Agent: Python-urllib/1.17
+
+127.0.0.1 - - [16/Apr/2016 16:39:45] "GET /cgi-bin/index.py HTTP/1.0" 200 -
+Host: 127.0.0.1:8000
+User-Agent: Python-urllib/1.17
+
+127.0.0.1 - - [16/Apr/2016 16:40:19] "GET /cgi-bin/index.py HTTP/1.0" 200 -
+Host: 127.0.0.1:8000
+User-Agent: Python-urllib/1.17
+
+127.0.0.1 - - [16/Apr/2016 16:41:10] "GET /cgi-bin/index.py HTTP/1.0" 200 -
+Host: 127.0.0.1:8000
+User-Agent: Python-urllib/1.17
+
+127.0.0.1 - - [16/Apr/2016 16:41:26] "GET /cgi-bin/index.py HTTP/1.0" 200 -
+Host: 127.0.0.1:8000
+User-Agent: Python-urllib/1.17
+
+127.0.0.1 - - [16/Apr/2016 16:44:23] "GET /cgi-bin/index.py HTTP/1.0" 200 -
+Host: 127.0.0.1:8000
+User-Agent: Python-urllib/1.17
+
+127.0.0.1 - - [16/Apr/2016 16:45:34] code 404, message File not found
+Accept-Encoding: identity
+Host: 127.0.0.1:8000
+Connection: close
+User-Agent: Python-urllib/2.7
+
+127.0.0.1 - - [16/Apr/2016 16:45:34] "GET /robots.txt HTTP/1.1" 404 -
+Accept-Encoding: identity
+Host: 127.0.0.1:8000
+Connection: close
+User-Agent: Python-urllib/2.7
+
+127.0.0.1 - - [16/Apr/2016 16:45:34] "GET /cgi-bin/index.py HTTP/1.1" 200 -
+Accept-Encoding: identity
+Host: 127.0.0.1:8000
+Connection: close
+User-Agent: Python-urllib/2.7
+
+127.0.0.1 - - [16/Apr/2016 16:46:12] code 404, message File not found
+Accept-Encoding: identity
+Host: 127.0.0.1:8000
+Connection: close
+User-Agent: Python-urllib/2.7
+
+127.0.0.1 - - [16/Apr/2016 16:46:12] "GET /robots.txt HTTP/1.1" 404 -
+Accept-Encoding: identity
+Host: 127.0.0.1:8000
+Connection: close
+User-Agent: Python-urllib/2.7
+
+127.0.0.1 - - [16/Apr/2016 16:46:12] "GET /cgi-bin/index.py HTTP/1.1" 200 -
+Accept-Encoding: identity
+Host: 127.0.0.1:8000
+Connection: close
+User-Agent: Python-urllib/2.7
+
+127.0.0.1 - - [16/Apr/2016 16:46:12] "POST /cgi-bin/index.py HTTP/1.1" 200 -
+Accept-Encoding: identity
+Content-Length: 68
+Host: 127.0.0.1:8000
+User-Agent: Python-urllib/2.7
+Connection: close
+Referer: http://127.0.0.1:8000/cgi-bin/index.py
+Content-Type: application/x-www-form-urlencoded
+
+127.0.0.1 - - [16/Apr/2016 16:46:17] "GET /data.txt HTTP/1.1" 200 -
+Host: 127.0.0.1:8000
+Connection: keep-alive
+Cache-Control: max-age=0
+Accept: text/html,application/xhtml+xml,application/xml;q=0.9,image/webp,*/*;q=0.8
+Upgrade-Insecure-Requests: 1
+User-Agent: Mozilla/5.0 (X11; Linux x86_64) AppleWebKit/537.36 (KHTML, like Gecko) Ubuntu Chromium/48.0.2564.82 Chrome/48.0.2564.82 Safari/537.36
+Referer: http://127.0.0.1:8000/
+Accept-Encoding: gzip, deflate, sdch
+Accept-Language: ja,en-US;q=0.8,en;q=0.6
+Cookie: csrftoken=bdFa5sdOysCs0EtIxdBomR6uMfE2a1Iv
+If-Modified-Since: Sat, 16 Apr 2016 05:53:19 GMT
+
+127.0.0.1 - - [16/Apr/2016 16:46:19] "GET /data.txt HTTP/1.1" 200 -
+Host: 127.0.0.1:8000
+Connection: keep-alive
+Cache-Control: max-age=0
+Accept: text/html,application/xhtml+xml,application/xml;q=0.9,image/webp,*/*;q=0.8
+Upgrade-Insecure-Requests: 1
+User-Agent: Mozilla/5.0 (X11; Linux x86_64) AppleWebKit/537.36 (KHTML, like Gecko) Ubuntu Chromium/48.0.2564.82 Chrome/48.0.2564.82 Safari/537.36
+Referer: http://127.0.0.1:8000/
+Accept-Encoding: gzip, deflate, sdch
+Accept-Language: ja,en-US;q=0.8,en;q=0.6
+Cookie: csrftoken=bdFa5sdOysCs0EtIxdBomR6uMfE2a1Iv
+If-Modified-Since: Sat, 16 Apr 2016 07:13:12 GMT
+
+127.0.0.1 - - [16/Apr/2016 16:46:20] "GET /data.txt HTTP/1.1" 200 -
+Host: 127.0.0.1:8000
+Connection: keep-alive
+Cache-Control: max-age=0
+Accept: text/html,application/xhtml+xml,application/xml;q=0.9,image/webp,*/*;q=0.8
+Upgrade-Insecure-Requests: 1
+User-Agent: Mozilla/5.0 (X11; Linux x86_64) AppleWebKit/537.36 (KHTML, like Gecko) Ubuntu Chromium/48.0.2564.82 Chrome/48.0.2564.82 Safari/537.36
+Referer: http://127.0.0.1:8000/
+Accept-Encoding: gzip, deflate, sdch
+Accept-Language: ja,en-US;q=0.8,en;q=0.6
+Cookie: csrftoken=bdFa5sdOysCs0EtIxdBomR6uMfE2a1Iv
+If-Modified-Since: Sat, 16 Apr 2016 07:13:12 GMT
+
+127.0.0.1 - - [16/Apr/2016 16:47:13] "GET /cgi-bin/index.py HTTP/1.0" 200 -
+Host: 127.0.0.1:8000
+User-Agent: Python-urllib/1.17
+
+127.0.0.1 - - [16/Apr/2016 16:47:24] "GET /cgi-bin/index.py HTTP/1.0" 200 -
+Host: 127.0.0.1:8000
+User-Agent: Python-urllib/1.17
+
+127.0.0.1 - - [16/Apr/2016 16:47:46] "POST /cgi-bin/index.py HTTP/1.1" 200 -
+Host: 127.0.0.1:8000
+Connection: keep-alive
+Content-Length: 15
+Cache-Control: max-age=0
+Accept: text/html,application/xhtml+xml,application/xml;q=0.9,image/webp,*/*;q=0.8
+Origin: http://127.0.0.1:8000
+Upgrade-Insecure-Requests: 1
+User-Agent: Mozilla/5.0 (X11; Linux x86_64) AppleWebKit/537.36 (KHTML, like Gecko) Ubuntu Chromium/48.0.2564.82 Chrome/48.0.2564.82 Safari/537.36
+Content-Type: application/x-www-form-urlencoded
+Referer: http://127.0.0.1:8000/cgi-bin/index.py
+Accept-Encoding: gzip, deflate
+Accept-Language: ja,en-US;q=0.8,en;q=0.6
+Cookie: csrftoken=bdFa5sdOysCs0EtIxdBomR6uMfE2a1Iv
+
+127.0.0.1 - - [16/Apr/2016 16:47:49] "POST /cgi-bin/index.py HTTP/1.1" 200 -
+Host: 127.0.0.1:8000
+Connection: keep-alive
+Content-Length: 15
+Cache-Control: max-age=0
+Accept: text/html,application/xhtml+xml,application/xml;q=0.9,image/webp,*/*;q=0.8
+Origin: http://127.0.0.1:8000
+Upgrade-Insecure-Requests: 1
+User-Agent: Mozilla/5.0 (X11; Linux x86_64) AppleWebKit/537.36 (KHTML, like Gecko) Ubuntu Chromium/48.0.2564.82 Chrome/48.0.2564.82 Safari/537.36
+Content-Type: application/x-www-form-urlencoded
+Referer: http://127.0.0.1:8000/cgi-bin/index.py
+Accept-Encoding: gzip, deflate
+Accept-Language: ja,en-US;q=0.8,en;q=0.6
+Cookie: csrftoken=bdFa5sdOysCs0EtIxdBomR6uMfE2a1Iv
+
+127.0.0.1 - - [16/Apr/2016 16:49:11] "GET /cgi-bin/index.py HTTP/1.0" 200 -
+Host: 127.0.0.1:8000
+User-Agent: Python-urllib/1.17
+
+127.0.0.1 - - [16/Apr/2016 16:59:27] code 404, message File not found
+Accept-Encoding: identity
+Host: 127.0.0.1:8000
+Connection: close
+User-Agent: Python-urllib/2.7
+
+127.0.0.1 - - [16/Apr/2016 16:59:27] "GET /robots.txt HTTP/1.1" 404 -
+Accept-Encoding: identity
+Host: 127.0.0.1:8000
+Connection: close
+User-Agent: Python-urllib/2.7
+
+127.0.0.1 - - [16/Apr/2016 16:59:27] "GET /cgi-bin/index.py HTTP/1.1" 200 -
+Accept-Encoding: identity
+Host: 127.0.0.1:8000
+Connection: close
+User-Agent: Python-urllib/2.7
+
+127.0.0.1 - - [16/Apr/2016 17:04:40] code 404, message File not found
+Accept-Encoding: identity
+Host: 127.0.0.1:8000
+Connection: close
+User-Agent: Python-urllib/2.7
+
+127.0.0.1 - - [16/Apr/2016 17:04:40] "GET /robots.txt HTTP/1.1" 404 -
+Accept-Encoding: identity
+Host: 127.0.0.1:8000
+Connection: close
+User-Agent: Python-urllib/2.7
+
+127.0.0.1 - - [16/Apr/2016 17:04:40] "GET /cgi-bin/index.py HTTP/1.1" 200 -
+Accept-Encoding: identity
+Host: 127.0.0.1:8000
+Connection: close
+User-Agent: Python-urllib/2.7
+
+127.0.0.1 - - [16/Apr/2016 17:05:29] code 404, message File not found
+Accept-Encoding: identity
+Host: 127.0.0.1:8000
+Connection: close
+User-Agent: Python-urllib/2.7
+
+127.0.0.1 - - [16/Apr/2016 17:05:29] "GET /robots.txt HTTP/1.1" 404 -
+Accept-Encoding: identity
+Host: 127.0.0.1:8000
+Connection: close
+User-Agent: Python-urllib/2.7
+
+127.0.0.1 - - [16/Apr/2016 17:05:29] "GET /cgi-bin/index.py HTTP/1.1" 200 -
+Accept-Encoding: identity
+Host: 127.0.0.1:8000
+Connection: close
+User-Agent: Python-urllib/2.7
+
+127.0.0.1 - - [16/Apr/2016 17:06:13] code 404, message File not found
+Accept-Encoding: identity
+Host: 127.0.0.1:8000
+Connection: close
+User-Agent: Python-urllib/2.7
+
+127.0.0.1 - - [16/Apr/2016 17:06:13] "GET /robots.txt HTTP/1.1" 404 -
+Accept-Encoding: identity
+Host: 127.0.0.1:8000
+Connection: close
+User-Agent: Python-urllib/2.7
+
+127.0.0.1 - - [16/Apr/2016 17:06:13] "GET /cgi-bin/index.py HTTP/1.1" 200 -
+Accept-Encoding: identity
+Host: 127.0.0.1:8000
+Connection: close
+User-Agent: Python-urllib/2.7
+
+127.0.0.1 - - [16/Apr/2016 17:07:26] code 404, message File not found
+Accept-Encoding: identity
+Host: 127.0.0.1:8000
+Connection: close
+User-Agent: Python-urllib/2.7
+
+127.0.0.1 - - [16/Apr/2016 17:07:26] "GET /robots.txt HTTP/1.1" 404 -
+Accept-Encoding: identity
+Host: 127.0.0.1:8000
+Connection: close
+User-Agent: Python-urllib/2.7
+
+127.0.0.1 - - [16/Apr/2016 17:07:26] "GET /cgi-bin/index.py HTTP/1.1" 200 -
+Accept-Encoding: identity
+Host: 127.0.0.1:8000
+Connection: close
+User-Agent: Python-urllib/2.7
+
+127.0.0.1 - - [16/Apr/2016 17:07:26] "POST /cgi-bin/index.py HTTP/1.1" 200 -
+Accept-Encoding: identity
+Content-Length: 109
+Host: 127.0.0.1:8000
+User-Agent: Python-urllib/2.7
+Connection: close
+Referer: http://127.0.0.1:8000/cgi-bin/index.py
+Content-Type: application/x-www-form-urlencoded
+
+127.0.0.1 - - [16/Apr/2016 17:07:46] "POST /cgi-bin/index.py HTTP/1.1" 200 -
+Host: 127.0.0.1:8000
+User-Agent: Mozilla/5.0 (X11; Ubuntu; Linux x86_64; rv:44.0) Gecko/20100101 Firefox/44.0
+Accept: text/html,application/xhtml+xml,application/xml;q=0.9,*/*;q=0.8
+Accept-Language: en-US,en;q=0.5
+Accept-Encoding: gzip, deflate
+Referer: http://127.0.0.1:8000/cgi-bin/index.py
+Connection: keep-alive
+Cache-Control: max-age=0
+Content-Type: application/x-www-form-urlencoded
+Content-Length: 45
+
+127.0.0.1 - - [16/Apr/2016 19:34:11] "POST /cgi-bin/index.py HTTP/1.1" 200 -
+Host: 127.0.0.1:8000
+User-Agent: Mozilla/5.0 (X11; Ubuntu; Linux x86_64; rv:44.0) Gecko/20100101 Firefox/44.0
+Accept: text/html,application/xhtml+xml,application/xml;q=0.9,*/*;q=0.8
+Accept-Language: en-US,en;q=0.5
+Accept-Encoding: gzip, deflate
+Referer: http://127.0.0.1:8000/cgi-bin/index.py
+Connection: keep-alive
+Cache-Control: max-age=0
+Content-Type: application/x-www-form-urlencoded
+Content-Length: 45
+
+127.0.0.1 - - [16/Apr/2016 19:34:38] "POST /cgi-bin/index.py HTTP/1.1" 200 -
+Host: 127.0.0.1:8000
+User-Agent: Mozilla/5.0 (X11; Ubuntu; Linux x86_64; rv:44.0) Gecko/20100101 Firefox/44.0
+Accept: text/html,application/xhtml+xml,application/xml;q=0.9,*/*;q=0.8
+Accept-Language: en-US,en;q=0.5
+Accept-Encoding: gzip, deflate
+Referer: http://127.0.0.1:8000/cgi-bin/index.py
+Connection: keep-alive
+Content-Type: application/x-www-form-urlencoded
+Content-Length: 20
+
+127.0.0.1 - - [16/Apr/2016 19:34:42] "POST /cgi-bin/index.py HTTP/1.1" 200 -
+Host: 127.0.0.1:8000
+User-Agent: Mozilla/5.0 (X11; Ubuntu; Linux x86_64; rv:44.0) Gecko/20100101 Firefox/44.0
+Accept: text/html,application/xhtml+xml,application/xml;q=0.9,*/*;q=0.8
+Accept-Language: en-US,en;q=0.5
+Accept-Encoding: gzip, deflate
+Referer: http://127.0.0.1:8000/cgi-bin/index.py
+Connection: keep-alive
+Cache-Control: max-age=0
+Content-Type: application/x-www-form-urlencoded
+Content-Length: 20
+
+127.0.0.1 - - [16/Apr/2016 19:34:49] "POST /cgi-bin/index.py HTTP/1.1" 200 -
+Host: 127.0.0.1:8000
+User-Agent: Mozilla/5.0 (X11; Ubuntu; Linux x86_64; rv:44.0) Gecko/20100101 Firefox/44.0
+Accept: text/html,application/xhtml+xml,application/xml;q=0.9,*/*;q=0.8
+Accept-Language: en-US,en;q=0.5
+Accept-Encoding: gzip, deflate
+Referer: http://127.0.0.1:8000/cgi-bin/index.py
+Connection: keep-alive
+Content-Type: application/x-www-form-urlencoded
+Content-Length: 23
+
+127.0.0.1 - - [16/Apr/2016 19:35:57] code 404, message File not found
+Accept-Encoding: identity
+Host: 127.0.0.1:8000
+Connection: close
+User-Agent: Python-urllib/2.7
+
+127.0.0.1 - - [16/Apr/2016 19:35:57] "GET /robots.txt HTTP/1.1" 404 -
+Accept-Encoding: identity
+Host: 127.0.0.1:8000
+Connection: close
+User-Agent: Python-urllib/2.7
+
+127.0.0.1 - - [16/Apr/2016 19:35:57] "GET /cgi-bin/index.py HTTP/1.1" 200 -
+Accept-Encoding: identity
+Host: 127.0.0.1:8000
+Connection: close
+User-Agent: Python-urllib/2.7
+
+127.0.0.1 - - [16/Apr/2016 19:35:57] "POST /cgi-bin/index.py HTTP/1.1" 200 -
+Accept-Encoding: identity
+Content-Length: 80
+Host: 127.0.0.1:8000
+User-Agent: Python-urllib/2.7
+Connection: close
+Referer: http://127.0.0.1:8000/cgi-bin/index.py
+Content-Type: application/x-www-form-urlencoded
+
+127.0.0.1 - - [16/Apr/2016 19:36:01] "POST /cgi-bin/index.py HTTP/1.1" 200 -
+Host: 127.0.0.1:8000
+User-Agent: Mozilla/5.0 (X11; Ubuntu; Linux x86_64; rv:44.0) Gecko/20100101 Firefox/44.0
+Accept: text/html,application/xhtml+xml,application/xml;q=0.9,*/*;q=0.8
+Accept-Language: en-US,en;q=0.5
+Accept-Encoding: gzip, deflate
+Referer: http://127.0.0.1:8000/cgi-bin/index.py
+Connection: keep-alive
+Cache-Control: max-age=0
+Content-Type: application/x-www-form-urlencoded
+Content-Length: 23
+
+127.0.0.1 - - [17/Apr/2016 16:41:19] "GET /cgi-bin/index.py HTTP/1.0" 200 -
+Host: 127.0.0.1:8000
+User-Agent: Python-urllib/1.17
+
+127.0.0.1 - - [17/Apr/2016 16:47:03] "GET /cgi-bin/index.py HTTP/1.1" 200 -
+Accept-Encoding: identity
+Host: 127.0.0.1:8000
+User-Agent: Python-urllib/3.4
+Connection: close
+
+127.0.0.1 - - [17/Apr/2016 16:54:43] "GET /cgi-bin/index.py HTTP/1.1" 200 -
+Accept-Encoding: identity
+Host: 127.0.0.1:8000
+User-Agent: Python-urllib/3.4
+Connection: close
+
+127.0.0.1 - - [17/Apr/2016 16:55:06] "GET /cgi-bin/index.py HTTP/1.1" 200 -
+Accept-Encoding: identity
+Connection: close
+Host: 127.0.0.1:8000
+User-Agent: Python-urllib/3.4
+
+127.0.0.1 - - [17/Apr/2016 16:59:26] "GET /cgi-bin/index.py HTTP/1.1" 200 -
+Accept-Encoding: identity
+User-Agent: Python-urllib/3.4
+Host: 127.0.0.1:8000
+Connection: close
+
+127.0.0.1 - - [17/Apr/2016 17:05:42] "GET /cgi-bin/index.py HTTP/1.1" 200 -
+Accept-Encoding: identity
+Host: 127.0.0.1:8000
+Connection: close
+User-Agent: Python-urllib/3.4
+
+127.0.0.1 - - [17/Apr/2016 17:06:03] "GET /cgi-bin/index.py HTTP/1.1" 200 -
+Accept-Encoding: identity
+Host: 127.0.0.1:8000
+User-Agent: Python-urllib/3.4
+Connection: close
+
+127.0.0.1 - - [17/Apr/2016 17:06:21] "GET /cgi-bin/index.py HTTP/1.1" 200 -
+Accept-Encoding: identity
+Host: 127.0.0.1:8000
+Connection: close
+User-Agent: Python-urllib/3.4
+
+127.0.0.1 - - [17/Apr/2016 17:09:33] "GET /cgi-bin/index.py HTTP/1.0" 200 -
+Host: 127.0.0.1:8000
+User-Agent: Python-urllib/1.17
+
+127.0.0.1 - - [17/Apr/2016 17:12:21] "GET /cgi-bin/index.py HTTP/1.1" 200 -
+Accept-Encoding: identity
+User-Agent: Python-urllib/3.4
+Host: 127.0.0.1:8000
+Connection: close
+
+127.0.0.1 - - [17/Apr/2016 17:12:35] "GET /cgi-bin/index.py HTTP/1.1" 200 -
+Accept-Encoding: identity
+Connection: close
+User-Agent: Python-urllib/3.4
+Host: 127.0.0.1:8000
+
+127.0.0.1 - - [17/Apr/2016 17:16:51] "GET /cgi-bin/index.py HTTP/1.1" 200 -
+Accept-Encoding: identity
+Connection: close
+Host: 127.0.0.1:8000
+User-Agent: Python-urllib/3.4
+
+127.0.0.1 - - [17/Apr/2016 17:19:35] "GET /cgi-bin/index.py HTTP/1.1" 200 -
+Accept-Encoding: identity
+Host: 127.0.0.1:8000
+User-Agent: Python-urllib/3.4
+Connection: close
+
+127.0.0.1 - - [17/Apr/2016 17:20:45] "GET /cgi-bin/index.py HTTP/1.1" 200 -
+Accept-Encoding: identity
+Host: 127.0.0.1:8000
+User-Agent: Python-urllib/3.4
+Connection: close
+
+127.0.0.1 - - [17/Apr/2016 17:22:13] "GET /cgi-bin/index.py HTTP/1.1" 200 -
+Accept-Encoding: identity
+Host: 127.0.0.1:8000
+User-Agent: Python-urllib/3.4
+Connection: close
+
+127.0.0.1 - - [18/Apr/2016 17:50:02] "GET /cgi-bin/index.py HTTP/1.0" 200 -
+Host: 127.0.0.1:8000
+User-Agent: Python-urllib/1.17
+
+127.0.0.1 - - [18/Apr/2016 18:21:09] "GET / HTTP/1.1" 200 -
+Host: 127.0.0.1:8000
+Connection: keep-alive
+Accept: text/html,application/xhtml+xml,application/xml;q=0.9,image/webp,*/*;q=0.8
+Upgrade-Insecure-Requests: 1
+User-Agent: Mozilla/5.0 (X11; Linux x86_64) AppleWebKit/537.36 (KHTML, like Gecko) Ubuntu Chromium/48.0.2564.82 Chrome/48.0.2564.82 Safari/537.36
+Accept-Encoding: gzip, deflate, sdch
+Accept-Language: ja,en-US;q=0.8,en;q=0.6
+Cookie: csrftoken=bdFa5sdOysCs0EtIxdBomR6uMfE2a1Iv
+
+127.0.0.1 - - [18/Apr/2016 18:21:10] "GET /data.txt HTTP/1.1" 200 -
+Host: 127.0.0.1:8000
+Connection: keep-alive
+Accept: text/html,application/xhtml+xml,application/xml;q=0.9,image/webp,*/*;q=0.8
+Upgrade-Insecure-Requests: 1
+User-Agent: Mozilla/5.0 (X11; Linux x86_64) AppleWebKit/537.36 (KHTML, like Gecko) Ubuntu Chromium/48.0.2564.82 Chrome/48.0.2564.82 Safari/537.36
+Referer: http://127.0.0.1:8000/
+Accept-Encoding: gzip, deflate, sdch
+Accept-Language: ja,en-US;q=0.8,en;q=0.6
+Cookie: csrftoken=bdFa5sdOysCs0EtIxdBomR6uMfE2a1Iv
+If-Modified-Since: Sat, 16 Apr 2016 07:13:12 GMT
+
+127.0.0.1 - - [18/Apr/2016 22:50:09] "GET / HTTP/1.1" 200 -
+Host: 127.0.0.1:8000
+Connection: keep-alive
+Accept: text/html,application/xhtml+xml,application/xml;q=0.9,image/webp,*/*;q=0.8
+Upgrade-Insecure-Requests: 1
+User-Agent: Mozilla/5.0 (X11; Linux x86_64) AppleWebKit/537.36 (KHTML, like Gecko) Ubuntu Chromium/48.0.2564.82 Chrome/48.0.2564.82 Safari/537.36
+Accept-Encoding: gzip, deflate, sdch
+Accept-Language: ja,en-US;q=0.8,en;q=0.6
+Cookie: csrftoken=bdFa5sdOysCs0EtIxdBomR6uMfE2a1Iv
+
+127.0.0.1 - - [18/Apr/2016 22:50:15] code 403, message CGI script is not a plain file ('/cgi-bin/')
+Host: 127.0.0.1:8000
+Connection: keep-alive
+Accept: text/html,application/xhtml+xml,application/xml;q=0.9,image/webp,*/*;q=0.8
+Upgrade-Insecure-Requests: 1
+User-Agent: Mozilla/5.0 (X11; Linux x86_64) AppleWebKit/537.36 (KHTML, like Gecko) Ubuntu Chromium/48.0.2564.82 Chrome/48.0.2564.82 Safari/537.36
+Referer: http://127.0.0.1:8000/
+Accept-Encoding: gzip, deflate, sdch
+Accept-Language: ja,en-US;q=0.8,en;q=0.6
+Cookie: csrftoken=bdFa5sdOysCs0EtIxdBomR6uMfE2a1Iv
+
+127.0.0.1 - - [18/Apr/2016 22:50:15] "GET /cgi-bin/ HTTP/1.1" 403 -
+Host: 127.0.0.1:8000
+Connection: keep-alive
+Accept: text/html,application/xhtml+xml,application/xml;q=0.9,image/webp,*/*;q=0.8
+Upgrade-Insecure-Requests: 1
+User-Agent: Mozilla/5.0 (X11; Linux x86_64) AppleWebKit/537.36 (KHTML, like Gecko) Ubuntu Chromium/48.0.2564.82 Chrome/48.0.2564.82 Safari/537.36
+Referer: http://127.0.0.1:8000/
+Accept-Encoding: gzip, deflate, sdch
+Accept-Language: ja,en-US;q=0.8,en;q=0.6
+Cookie: csrftoken=bdFa5sdOysCs0EtIxdBomR6uMfE2a1Iv
+
+127.0.0.1 - - [18/Apr/2016 22:50:17] code 403, message CGI script is not a plain file ('/cgi-bin/')
+Host: 127.0.0.1:8000
+Connection: keep-alive
+Accept: text/html,application/xhtml+xml,application/xml;q=0.9,image/webp,*/*;q=0.8
+Upgrade-Insecure-Requests: 1
+User-Agent: Mozilla/5.0 (X11; Linux x86_64) AppleWebKit/537.36 (KHTML, like Gecko) Ubuntu Chromium/48.0.2564.82 Chrome/48.0.2564.82 Safari/537.36
+Referer: http://127.0.0.1:8000/
+Accept-Encoding: gzip, deflate, sdch
+Accept-Language: ja,en-US;q=0.8,en;q=0.6
+Cookie: csrftoken=bdFa5sdOysCs0EtIxdBomR6uMfE2a1Iv
+
+127.0.0.1 - - [18/Apr/2016 22:50:17] "GET /cgi-bin/ HTTP/1.1" 403 -
+Host: 127.0.0.1:8000
+Connection: keep-alive
+Accept: text/html,application/xhtml+xml,application/xml;q=0.9,image/webp,*/*;q=0.8
+Upgrade-Insecure-Requests: 1
+User-Agent: Mozilla/5.0 (X11; Linux x86_64) AppleWebKit/537.36 (KHTML, like Gecko) Ubuntu Chromium/48.0.2564.82 Chrome/48.0.2564.82 Safari/537.36
+Referer: http://127.0.0.1:8000/
+Accept-Encoding: gzip, deflate, sdch
+Accept-Language: ja,en-US;q=0.8,en;q=0.6
+Cookie: csrftoken=bdFa5sdOysCs0EtIxdBomR6uMfE2a1Iv
+
+127.0.0.1 - - [18/Apr/2016 22:50:22] "GET /cgi-bin/index.py HTTP/1.1" 200 -
+Host: 127.0.0.1:8000
+Connection: keep-alive
+Accept: text/html,application/xhtml+xml,application/xml;q=0.9,image/webp,*/*;q=0.8
+Upgrade-Insecure-Requests: 1
+User-Agent: Mozilla/5.0 (X11; Linux x86_64) AppleWebKit/537.36 (KHTML, like Gecko) Ubuntu Chromium/48.0.2564.82 Chrome/48.0.2564.82 Safari/537.36
+Accept-Encoding: gzip, deflate, sdch
+Accept-Language: ja,en-US;q=0.8,en;q=0.6
+Cookie: csrftoken=bdFa5sdOysCs0EtIxdBomR6uMfE2a1Iv
+
+127.0.0.1 - - [19/Apr/2016 13:41:22] "GET / HTTP/1.1" 200 -
+Host: 127.0.0.1:8000
+User-Agent: Mozilla/5.0 (X11; Ubuntu; Linux x86_64; rv:44.0) Gecko/20100101 Firefox/44.0
+Accept: text/html,application/xhtml+xml,application/xml;q=0.9,*/*;q=0.8
+Accept-Language: en-US,en;q=0.5
+Accept-Encoding: gzip, deflate
+Connection: keep-alive
+
+127.0.0.1 - - [19/Apr/2016 13:42:16] code 403, message CGI script is not a plain file ('/cgi-bin/')
+Host: 127.0.0.1:8000
+User-Agent: Mozilla/5.0 (X11; Ubuntu; Linux x86_64; rv:44.0) Gecko/20100101 Firefox/44.0
+Accept: text/html,application/xhtml+xml,application/xml;q=0.9,*/*;q=0.8
+Accept-Language: en-US,en;q=0.5
+Accept-Encoding: gzip, deflate
+Referer: http://127.0.0.1:8000/
+Connection: keep-alive
+
+127.0.0.1 - - [19/Apr/2016 13:42:16] "GET /cgi-bin/ HTTP/1.1" 403 -
+Host: 127.0.0.1:8000
+User-Agent: Mozilla/5.0 (X11; Ubuntu; Linux x86_64; rv:44.0) Gecko/20100101 Firefox/44.0
+Accept: text/html,application/xhtml+xml,application/xml;q=0.9,*/*;q=0.8
+Accept-Language: en-US,en;q=0.5
+Accept-Encoding: gzip, deflate
+Referer: http://127.0.0.1:8000/
+Connection: keep-alive
+
+127.0.0.1 - - [19/Apr/2016 13:42:23] "GET /cgi-bin/index.py HTTP/1.1" 200 -
+Host: 127.0.0.1:8000
+User-Agent: Mozilla/5.0 (X11; Ubuntu; Linux x86_64; rv:44.0) Gecko/20100101 Firefox/44.0
+Accept: text/html,application/xhtml+xml,application/xml;q=0.9,*/*;q=0.8
+Accept-Language: en-US,en;q=0.5
+Accept-Encoding: gzip, deflate
+Connection: keep-alive
+
+127.0.0.1 - - [22/Apr/2016 13:52:02] "GET / HTTP/1.1" 200 -
+Host: 127.0.0.1:8000
+Connection: keep-alive
+Accept: text/html,application/xhtml+xml,application/xml;q=0.9,image/webp,*/*;q=0.8
+Upgrade-Insecure-Requests: 1
+User-Agent: Mozilla/5.0 (X11; Linux x86_64) AppleWebKit/537.36 (KHTML, like Gecko) Ubuntu Chromium/48.0.2564.82 Chrome/48.0.2564.82 Safari/537.36
+Accept-Encoding: gzip, deflate, sdch
+Accept-Language: ja,en-US;q=0.8,en;q=0.6
+Cookie: csrftoken=bdFa5sdOysCs0EtIxdBomR6uMfE2a1Iv
+
+127.0.0.1 - - [22/Apr/2016 13:52:02] code 404, message File not found
+Host: 127.0.0.1:8000
+Connection: keep-alive
+User-Agent: Mozilla/5.0 (X11; Linux x86_64) AppleWebKit/537.36 (KHTML, like Gecko) Ubuntu Chromium/48.0.2564.82 Chrome/48.0.2564.82 Safari/537.36
+Accept: */*
+Referer: http://127.0.0.1:8000/
+Accept-Encoding: gzip, deflate, sdch
+Accept-Language: ja,en-US;q=0.8,en;q=0.6
+Cookie: csrftoken=bdFa5sdOysCs0EtIxdBomR6uMfE2a1Iv
+
+127.0.0.1 - - [22/Apr/2016 13:52:02] "GET /favicon.ico HTTP/1.1" 404 -
+Host: 127.0.0.1:8000
+Connection: keep-alive
+User-Agent: Mozilla/5.0 (X11; Linux x86_64) AppleWebKit/537.36 (KHTML, like Gecko) Ubuntu Chromium/48.0.2564.82 Chrome/48.0.2564.82 Safari/537.36
+Accept: */*
+Referer: http://127.0.0.1:8000/
+Accept-Encoding: gzip, deflate, sdch
+Accept-Language: ja,en-US;q=0.8,en;q=0.6
+Cookie: csrftoken=bdFa5sdOysCs0EtIxdBomR6uMfE2a1Iv
+
+127.0.0.1 - - [22/Apr/2016 13:52:03] code 403, message CGI script is not a plain file ('/cgi-bin/')
+Host: 127.0.0.1:8000
+Connection: keep-alive
+Accept: text/html,application/xhtml+xml,application/xml;q=0.9,image/webp,*/*;q=0.8
+Upgrade-Insecure-Requests: 1
+User-Agent: Mozilla/5.0 (X11; Linux x86_64) AppleWebKit/537.36 (KHTML, like Gecko) Ubuntu Chromium/48.0.2564.82 Chrome/48.0.2564.82 Safari/537.36
+Referer: http://127.0.0.1:8000/
+Accept-Encoding: gzip, deflate, sdch
+Accept-Language: ja,en-US;q=0.8,en;q=0.6
+Cookie: csrftoken=bdFa5sdOysCs0EtIxdBomR6uMfE2a1Iv
+
+127.0.0.1 - - [22/Apr/2016 13:52:03] "GET /cgi-bin/ HTTP/1.1" 403 -
+Host: 127.0.0.1:8000
+Connection: keep-alive
+Accept: text/html,application/xhtml+xml,application/xml;q=0.9,image/webp,*/*;q=0.8
+Upgrade-Insecure-Requests: 1
+User-Agent: Mozilla/5.0 (X11; Linux x86_64) AppleWebKit/537.36 (KHTML, like Gecko) Ubuntu Chromium/48.0.2564.82 Chrome/48.0.2564.82 Safari/537.36
+Referer: http://127.0.0.1:8000/
+Accept-Encoding: gzip, deflate, sdch
+Accept-Language: ja,en-US;q=0.8,en;q=0.6
+Cookie: csrftoken=bdFa5sdOysCs0EtIxdBomR6uMfE2a1Iv
+
+127.0.0.1 - - [22/Apr/2016 13:52:09] "GET /cgi-bin/index.py HTTP/1.1" 200 -
+Host: 127.0.0.1:8000
+Connection: keep-alive
+Accept: text/html,application/xhtml+xml,application/xml;q=0.9,image/webp,*/*;q=0.8
+Upgrade-Insecure-Requests: 1
+User-Agent: Mozilla/5.0 (X11; Linux x86_64) AppleWebKit/537.36 (KHTML, like Gecko) Ubuntu Chromium/48.0.2564.82 Chrome/48.0.2564.82 Safari/537.36
+Accept-Encoding: gzip, deflate, sdch
+Accept-Language: ja,en-US;q=0.8,en;q=0.6
+Cookie: csrftoken=bdFa5sdOysCs0EtIxdBomR6uMfE2a1Iv
+
+127.0.0.1 - - [23/Apr/2016 11:04:48] "GET / HTTP/1.1" 200 -
+Host: 127.0.0.1:8000
+Connection: keep-alive
+Accept: text/html,application/xhtml+xml,application/xml;q=0.9,image/webp,*/*;q=0.8
+Upgrade-Insecure-Requests: 1
+User-Agent: Mozilla/5.0 (X11; Linux x86_64) AppleWebKit/537.36 (KHTML, like Gecko) Ubuntu Chromium/48.0.2564.82 Chrome/48.0.2564.82 Safari/537.36
+Accept-Encoding: gzip, deflate, sdch
+Accept-Language: ja,en-US;q=0.8,en;q=0.6
+Cookie: csrftoken=bdFa5sdOysCs0EtIxdBomR6uMfE2a1Iv
+
+127.0.0.1 - - [23/Apr/2016 11:04:48] code 404, message File not found
+Host: 127.0.0.1:8000
+Connection: keep-alive
+User-Agent: Mozilla/5.0 (X11; Linux x86_64) AppleWebKit/537.36 (KHTML, like Gecko) Ubuntu Chromium/48.0.2564.82 Chrome/48.0.2564.82 Safari/537.36
+Accept: */*
+Referer: http://127.0.0.1:8000/
+Accept-Encoding: gzip, deflate, sdch
+Accept-Language: ja,en-US;q=0.8,en;q=0.6
+Cookie: csrftoken=bdFa5sdOysCs0EtIxdBomR6uMfE2a1Iv
+
+127.0.0.1 - - [23/Apr/2016 11:04:48] "GET /favicon.ico HTTP/1.1" 404 -
+Host: 127.0.0.1:8000
+Connection: keep-alive
+User-Agent: Mozilla/5.0 (X11; Linux x86_64) AppleWebKit/537.36 (KHTML, like Gecko) Ubuntu Chromium/48.0.2564.82 Chrome/48.0.2564.82 Safari/537.36
+Accept: */*
+Referer: http://127.0.0.1:8000/
+Accept-Encoding: gzip, deflate, sdch
+Accept-Language: ja,en-US;q=0.8,en;q=0.6
+Cookie: csrftoken=bdFa5sdOysCs0EtIxdBomR6uMfE2a1Iv
+
+127.0.0.1 - - [23/Apr/2016 11:04:57] "GET / HTTP/1.1" 200 -
+Host: 127.0.0.1:8000
+Connection: keep-alive
+Accept: text/html,application/xhtml+xml,application/xml;q=0.9,image/webp,*/*;q=0.8
+Upgrade-Insecure-Requests: 1
+User-Agent: Mozilla/5.0 (X11; Linux x86_64) AppleWebKit/537.36 (KHTML, like Gecko) Ubuntu Chromium/48.0.2564.82 Chrome/48.0.2564.82 Safari/537.36
+Accept-Encoding: gzip, deflate, sdch
+Accept-Language: ja,en-US;q=0.8,en;q=0.6
+Cookie: csrftoken=bdFa5sdOysCs0EtIxdBomR6uMfE2a1Iv
+

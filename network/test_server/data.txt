@@ -1,0 +1,6 @@
+
+MOTOUCHI|hello world
+<script>alert(XSS!!)</script>|<script>alert(XSS!!)</script>
+sdfgh|fgh
+<script>alert(XSS!!)</script>|This way is Python
+sdfgh|fgh
