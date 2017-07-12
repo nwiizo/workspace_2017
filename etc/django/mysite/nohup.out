@@ -1,0 +1,11 @@
+[12/Jul/2017 15:17:30] "GET / HTTP/1.1" 200 449
+[12/Jul/2017 15:17:30] "GET /static/css/blog.css HTTP/1.1" 304 0
+[12/Jul/2017 15:17:31] "GET / HTTP/1.1" 200 449
+[12/Jul/2017 15:17:53] "GET / HTTP/1.1" 302 0
+[12/Jul/2017 15:17:53] "GET /accounts/login/?next=/ HTTP/1.1" 200 1970
+[12/Jul/2017 15:23:24] "GET / HTTP/1.1" 302 0
+[12/Jul/2017 15:23:24] "GET /accounts/login/?next=/ HTTP/1.1" 200 1970
+[12/Jul/2017 15:23:28] "POST /accounts/login/ HTTP/1.1" 302 0
+[12/Jul/2017 15:23:28] "GET / HTTP/1.1" 200 449
+[12/Jul/2017 15:23:28] "GET /static/css/blog.css HTTP/1.1" 200 234
+[12/Jul/2017 15:23:35] "GET / HTTP/1.1" 200 449
