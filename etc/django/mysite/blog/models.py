@@ -7,8 +7,9 @@ from django.utils import timezone
 
 class Post(models.Model):
     author = models.ForeignKey('auth.User')
-    title = models.CharField(max_length=200)
-    text = models.TextField()
+    title = models.CharField('title',max_length=200)
+    text = models.TextField('text')
+    file_url = models.CharField('file_url',max_length=200,default='/')
     created_date = models.DateTimeField(
             default=timezone.now)
     published_date = models.DateTimeField(
