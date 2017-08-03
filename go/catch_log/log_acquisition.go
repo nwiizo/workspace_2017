@@ -1,6 +1,5 @@
 /*
  Package main provides Asynchronous log acquisition
-  author: t.yonesaka
 */
 package main
 
