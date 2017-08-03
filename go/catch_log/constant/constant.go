@@ -1,6 +1,5 @@
 /*
  Package constat provides defining constants.
-  author: t.yonesaka
 */
 package constant
 
