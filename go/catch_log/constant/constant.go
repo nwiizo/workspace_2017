@@ -5,7 +5,7 @@ package constant
 
 const LogFile = "/var/log/webcl/log_acquisition-"
 const MaxProcess = 2
-const BaseDir = "/bkup_vol01/"
+const BaseDir = "/bkup/"
 const DefaultOption = "-az"
 const DefaultIncludeOption = "--include=*/"
 const DefaultExcludeOption = "--exclude=*"
