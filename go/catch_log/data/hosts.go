@@ -1,7 +1,6 @@
 /*
  Package data provides simple strcut
  Store data of yml file
-  author: t.yonesaka
 */
 package data
 
