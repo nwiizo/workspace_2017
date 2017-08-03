@@ -1,6 +1,5 @@
 /*
  Package operation provides solaris commadn functions.
-  author: t.yonesaka
 */
 package operation
 
