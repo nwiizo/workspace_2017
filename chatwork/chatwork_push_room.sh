@@ -8,12 +8,7 @@ CW_ROOM="************"
 # テキスト
 MEMBER="************* "
 TEXT_AREA="**********"
-TEXT_AREA+="""
-            [code]
-            `cat $result_save_path`
-            [/code]
-            [/info]
-            """
+TEXT_AREA+="""自由に遅れます。"""
         
 # エンドポイント
 curl -X POST -H "X-ChatWorkToken:${CW_TOKEN}" -d "body=${MEMBER}+${TEXT_AREA}" "https://api.chatwork.com/v2/rooms/${CW_ROOM}/messages"
