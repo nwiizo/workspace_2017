@@ -1,0 +1,47 @@
+{% extends "admin/base.html" %}
+
+{% block content %}
+
+{% load staticfiles %}
+<!DOCTYPE html>
+<html lang="en">
+<head>
+  <meta charset="UTF-8">
+  <meta name="viewport" content="width=device-width, initial-scale=1.0">
+  <meta http-equiv="X-UA-Compatible" content="ie=edge">
+  <link rel="stylesheet" type="text/css" href="{% static 'css/login.css' %}">
+  <title>login</title>
+</head>
+<body>
+  <div class="main">
+    <img class="logo" src="{% static 'images/logo_L.png' %}" alt="" />
+    <div class="panel panel-primary">
+      <div class="panel-body">
+        <p class="ab">所属学校</p>
+        <p class="school_name">渋谷第一小学校<span class="stext">　保護者様用</span></p>
+        <form>
+          <div>
+            <div class="input-group">
+              <p class="a">ユーザー名</p>
+              <input id="id_username" name="username" type="text" value="" maxlength="256" size=20 style="font-size:20px;"/>
+            </div>
+            <div class="input-group">
+              <p class="a">パスワード</p>
+              <input id="id_password" name="password" type="password" value="" maxlength="256" size=20 style="font-size:20px;"/>
+            </div>
+            <div class="chkbox">
+              <input type="checkbox" id="chkbox3" name="chkbox03" value="1" />
+              <label for="chkbox3">ログイン状態を保存する</label>
+            </div>
+            <a href="/"><button type="submit"><i>ログイン</i></button></a>
+            <input name="next" type="hidden" value="{{ next }}"/>
+            <p class="pass">パスワードを忘れた方は<a href="#"><span class="link">こちら</span></a></p>
+          </form>
+        </div>
+      </div>
+    </div>
+  </div>
+{% endblock %}
+</body>
+</html>
+

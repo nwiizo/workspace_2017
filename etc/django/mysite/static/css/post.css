@@ -1,0 +1,163 @@
+* {
+  margin: 0;
+  padding: 0;
+}
+
+body {
+    background-color: #fff;
+    color: #666;
+}
+
+.main {
+  text-align: center;
+}
+
+.logo {
+  margin-top: 70px;
+  margin-bottom: 20px;
+  width: 23%;
+  height: 23%;
+}
+
+dl.form dt{
+  clear:left;
+  possition:relative;
+  float:left;
+  width: 10em;
+  padding:10px 0px 0px 0px;
+}
+
+dl.form dd{
+  margin-left: 10em;
+  width: 300px;
+  padding:10px 10px 10px 0px;
+}
+
+.panel {
+  margin: 0 auto;
+  width: 500px;
+  height: 400px;
+  background-color: #fff;
+}
+
+.school_name {
+  margin-bottom: 30px;
+}
+.stext {
+  font-size: 25px;
+}
+
+.ab{
+  margin-right: 335px;
+  padding-top: 30px;
+}
+
+.a{
+  margin-right: 25px;
+  text-align: letf
+}
+
+.aa{
+  margin-right: 35px;
+  text-align: left
+}
+
+.panel-body p:nth-child(2) {
+  color: #00a99d;
+  font-size: 30px;
+
+div.label{
+  width:20%;
+}
+
+span{
+  width:100px;
+}
+
+.input-group {
+  margin-bottom: 20px;
+}
+
+.input-group input{
+  background-color: #fafafa;
+  width: 400px;
+  height: 40px;
+  border: solid 1px #d2d0d0;
+}
+
+.input-group dd select{
+  background-color: #fafafa;
+  width: 300px;
+  height: 30px;
+  border: solid 1px #d2d0d0;
+}
+.chkbox {
+	margin:	0 230px 10px 20px;
+
+}
+
+/* ラベルのスタイル　*/
+.chkbox label {
+  color: #666;
+	padding-left:		30px;			/* ラベルの位置 */
+	font-size:		15px;
+	line-height:		22px;
+	display:		inline-block;
+	cursor:			pointer;
+	position:		relative;
+}
+
+/* ボックスのスタイル */
+.chkbox label:before {
+	content:		'';
+	width:			20px;			/* ボックスの横幅 */
+	height:			20px;			/* ボックスの縦幅 */
+	display:		inline-block;
+	position:		absolute;
+	left:			0;
+	background-color:	#fafafa;
+  border: solid 1px #ccc;
+}
+
+/* 元のチェックボックスを表示しない */
+.chkbox input[type=checkbox] {
+	display:		none;
+}
+
+/* チェックした時のスタイル */
+.chkbox input[type=checkbox]:checked + label:before {
+	content:		'\2713';		/* チェックの文字 */
+	font-size:		20px;			/* チェックのサイズ */
+	color:			#fff;			/* チェックの色 */
+	background-color:	#06f;			/* チェックした時の色 */
+}
+
+button {
+  position: relative;
+  width: 100px;
+  height: 30px;
+  background-color: #00a99d;
+  border-style: none;
+  left: 150px;
+  top: -30px;
+}
+
+i {
+  color: #fff;
+  font-size: 1.2em;
+  border-style: none;
+}
+
+.pass {
+  margin-left: 175px;
+  margin-top: -20px;
+}
+
+.pass a {
+  color: #00a99d;
+  text-decoration: none;
+}
+
+
+
+

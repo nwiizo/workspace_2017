@@ -1,0 +1,168 @@
+{% load staticfiles %}
+<!doctype html>
+<!--[if lt IE 7]>      <html class="no-js lt-ie9 lt-ie8 lt-ie7" lang=""> <![endif]-->
+<!--[if IE 7]>         <html class="no-js lt-ie9 lt-ie8" lang=""> <![endif]-->
+<!--[if IE 8]>         <html class="no-js lt-ie9" lang=""> <![endif]-->
+<!--[if gt IE 8]><!-->
+<html class="no-js" lang="">
+<!--<![endif]-->
+<head>
+<meta charset="utf-8">
+<meta name="description" content="">
+<meta name="viewport" content="width=device-width, initial-scale=1">
+<title>おたよりポケット</title>
+<link rel="stylesheet" href="{% static 'css/bootstrap.min.css' %}">
+<link rel="stylesheet" href="{% static 'css/flexslider.css' %}">
+<link rel="stylesheet" href="{% static 'css/jquery.fancybox.css' %}">
+<link rel="stylesheet" href="{% static 'css/main.css' %}">
+<link rel="stylesheet" href="{% static 'css/responsive.css' %}">
+<link rel="stylesheet" href="{% static 'css/animate.min.css' %}">
+<link rel="stylesheet" href="{% static 'css/font-icon.css' %}" >
+<link rel="stylesheet" href="https://maxcdn.bootstrapcdn.com/font-awesome/4.4.0/css/font-awesome.min.css">
+</head>
+
+
+<body>
+<!-- header section -->
+<section class="banner" role="banner">
+<!--header navigation -->
+  <header id="header">
+    <div class="header-content clearfix"> <a class="logo" href="/"><img src="{% static 'images/logo.png' %}" alt=""></a>
+      <nav class="navigation" role="navigation">
+        <ul class="primary-nav">
+          <li><a href="/">おたよりを読む</a></li>
+          <li><a href="/static/pdf/using_otapoke.pdf">使い方</a></li>
+          <li><a href="/">このサイトについて</a></li>
+        </ul>
+      </nav>
+      <a href="#" class="nav-toggle">Menu<span></span></a> </div>
+      </header>
+      <!--header navigation -->
+  </section>
+  <!-- header section -->
+  <!-- text banner section -->
+<section id="banner" class="banner no-padding">
+  <div class="container-fluid">
+    <div class="row no-gutter">
+      <div class="flexslider">
+        <ul class="slides">
+          <li>
+            <div class="col-md-12">
+              <blockquote>
+                <img src="{% static 'images/h_otayoriwoyomu.png' %}" alt=""><br>
+                <br>
+                <br>
+                <p>こちらでは「渋谷第一小学校」のおたよりを配布しています。<br>以下のカテゴリーから、閲覧したい「おたよりの種類」をクリックし、<br>おたよりを選んでください。<br></p>
+              </blockquote>
+               <img class="guide" "src="{% static  'images/otayori_guide.png' %}" alt=""><br>
+            </div>
+          </li>
+        </ul>
+      </div>
+     </div>
+  </div>
+</section>
+<!-- Text banner section --> 
+<!-- portfolio section -->
+<section id="works" class="works section no-padding">
+  <div class="container-fluid">
+    <div class="row no-gutter">
+      <div class="col-lg-3 col-md-6 col-sm-6 work"> <a href="/year" class="work-box"> <img src="{% static 'images/work-1.jpg' %}" alt="">
+        <div class="overlay">
+          <div class="overlay-caption">
+            <h5>学年だより一覧</h5>
+            <p><i class="fa fa-search-plus fa-2x"></i></p>
+          </div>
+        </div>
+        <!-- overlay --> 
+        </a> </div>
+      <div class="col-lg-3 col-md-6 col-sm-6 work"> <a href="/school" class="work-box"> <img src="{% static 'images/work-2.jpg' %}" alt="">
+        <div class="overlay">
+          <div class="overlay-caption">
+            <h5>学級だより一覧</h5>
+            <p><i class="fa fa-search-plus fa-2x"></i></p>
+          </div>
+        </div>
+        <!-- overlay --> 
+        </a> </div>
+      <div class="col-lg-3 col-md-6 col-sm-6 work"> <a href="/school" class="work-box"> <img src="{% static 'images/work-3.jpg' %}" alt="">
+        <div class="overlay">
+          <div class="overlay-caption">
+            <h5>献立表/保険だより/給食だより/おしらせ系など</h5>
+            <p><i class="fa fa-search-plus fa-2x"></i></p>
+          </div>
+        </div>
+        <!-- overlay --> 
+        </a> </div>
+      <div class="col-lg-3 col-md-6 col-sm-6 work"> <a href="/school" class="work-box"> <img src="{% static 'images/work-4.jpg' %}" alt="">
+        <div class="overlay">
+          <div class="overlay-caption">
+            <h5>行事について</h5>
+            <p><i class="fa fa-search-plus fa-2x"></i></p>
+          </div>
+        </div>
+        <!-- overlay -->  
+        </a> </div>
+    </div>
+  </div>
+</section>
+<!-- portfolio section --> 
+  <!-- footer -->
+<footer class="section footer">
+  <div class="footer-bottom">
+    <div class="container">
+      <div class="col-md-12">
+        <p>
+        </p>
+        <p>© 2017 ALL RIGHTS RESERVED. ALL RIGHTS RESERVED<br>
+        MADE WITH  BY GTB2017-Group3 <br></p>
+      </div>
+    </div>
+  </div>
+</footer>
+<!-- footer --> 
+<!-- JS FILES --> 
+<!--
+<script src="https://ajax.googleapis.com/ajax/libs/jquery/1.11.3/jquery.min.js"></script> 
+<script src="{% static 'js/bootstrap.min.js' %}"></script> 
+<script src="{% static 'js/jquery.flexslider-min.js' %}"></script> 
+<script src="{% static 'js/jquery.fancybox.pack.js' %}"></script> 
+<script src="{% static 'js/jquery.waypoints.min.js' %}"></script> 
+<script src="{% static 'js/retina.min.js' %}"></script> 
+<script src="{% static 'js/modernizr.js' %}"></script> 
+<script src="{% static 'js/main.js' %}"></script> 
+
+--!>  
+<!--    <div>
+        <h3><a href="/">新しい投稿</a></h3>
+    </div>
+
+{% for post in posts %}
+
+<section id="banner" class="banner no-padding">
+  <div class="container-fluid">
+    <div class="row no-gutter">
+      <div class="flexslider">
+        <ul class="slides">
+          <li>
+            <div class="col-md-12">
+              <blockquote>
+        <h1><a href="{% url 'post_detail' pk=post.pk %}">{{ post.title }}</a></h1>
+        <h4><p>公開日: {{ post.published_date }}</p></h4>
+        <p>{{ post.text|linebreaks }}</p>
+        <p><a href="{% url 'post_school' s_year=post.school_year %}"> {{ post.school_year }} 年生</p>
+        <p><a href="/static/pdf/{{post.file_url}}">PDF</a></p>
+
+              </blockquote>
+            </div>
+          </li>
+        </ul>
+      </div>
+     </div>
+  </div>
+</section>
+
+{% endfor %}
+--!>
+</body>
+</html>
