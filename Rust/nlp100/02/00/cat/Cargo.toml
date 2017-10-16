@@ -1,0 +1,6 @@
+[package]
+name = "cat"
+version = "0.1.0"
+authors = ["nwiizo <syu.m.5151@gmail.com>"]
+
+[dependencies]
