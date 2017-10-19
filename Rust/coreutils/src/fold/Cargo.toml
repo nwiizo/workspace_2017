@@ -1,0 +1,15 @@
+[package]
+name = "fold"
+version = "0.0.1"
+authors = []
+
+[lib]
+name = "uu_fold"
+path = "fold.rs"
+
+[dependencies]
+uucore = { path="../uucore" }
+
+[[bin]]
+name = "fold"
+path = "main.rs"

@@ -1,0 +1,17 @@
+[package]
+name = "fmt"
+version = "0.0.1"
+authors = []
+
+[lib]
+name = "uu_fmt"
+path = "fmt.rs"
+
+[dependencies]
+libc = "0.2.26"
+unicode-width = "0.1.4"
+uucore = { path="../uucore" }
+
+[[bin]]
+name = "fmt"
+path = "main.rs"

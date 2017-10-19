@@ -1,0 +1,17 @@
+[package]
+name = "comm"
+version = "0.0.1"
+authors = []
+
+[lib]
+name = "uu_comm"
+path = "comm.rs"
+
+[dependencies]
+libc = "0.2.26"
+getopts = "0.2.14"
+uucore = { path="../uucore" }
+
+[[bin]]
+name = "comm"
+path = "main.rs"

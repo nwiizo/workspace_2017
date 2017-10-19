@@ -1,0 +1,15 @@
+[package]
+name = "base64"
+version = "0.0.1"
+authors = []
+
+[lib]
+name = "uu_base64"
+path = "base64.rs"
+
+[dependencies]
+uucore = { path="../uucore" }
+
+[[bin]]
+name = "base64"
+path = "main.rs"

@@ -1,0 +1,22 @@
+[package]
+name = "touch"
+version = "0.0.1"
+authors = []
+
+[lib]
+name = "uu_touch"
+path = "touch.rs"
+
+[dependencies]
+filetime = "0.1.10"
+getopts = "0.2.14"
+time = "0.1.38"
+
+[dependencies.uucore]
+path = "../uucore"
+default-features = false
+features = ["libc"]
+
+[[bin]]
+name = "touch"
+path = "main.rs"

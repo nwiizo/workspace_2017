@@ -1,0 +1,16 @@
+[package]
+name = "mv"
+version = "0.0.1"
+authors = []
+
+[lib]
+name = "uu_mv"
+path = "mv.rs"
+
+[dependencies]
+getopts = "0.2.14"
+uucore = { path="../uucore" }
+
+[[bin]]
+name = "mv"
+path = "main.rs"

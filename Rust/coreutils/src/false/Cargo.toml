@@ -1,0 +1,12 @@
+[package]
+name = "false"
+version = "0.0.1"
+authors = []
+
+[lib]
+name = "uu_false"
+path = "false.rs"
+
+[[bin]]
+name = "false"
+path = "main.rs"

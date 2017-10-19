@@ -1,0 +1,16 @@
+[package]
+name = "seq"
+version = "0.0.1"
+authors = []
+
+[lib]
+name = "uu_seq"
+path = "seq.rs"
+
+[dependencies]
+getopts = "0.2.14"
+uucore = { path="../uucore" }
+
+[[bin]]
+name = "seq"
+path = "main.rs"

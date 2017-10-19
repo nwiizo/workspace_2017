@@ -1,0 +1,19 @@
+[package]
+name = "sync"
+version = "0.0.1"
+authors = []
+
+[lib]
+name = "uu_sync"
+path = "sync.rs"
+
+[dependencies]
+getopts = "0.2.14"
+libc = "0.2.26"
+winapi = "0.2.8"
+kernel32-sys = "0.2.2"
+uucore = { path="../uucore" }
+
+[[bin]]
+name = "sync"
+path = "main.rs"

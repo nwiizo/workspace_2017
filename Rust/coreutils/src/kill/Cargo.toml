@@ -1,0 +1,16 @@
+[package]
+name = "kill"
+version = "0.0.1"
+authors = []
+
+[lib]
+name = "uu_kill"
+path = "kill.rs"
+
+[dependencies]
+libc = "0.2.26"
+uucore = { path="../uucore" }
+
+[[bin]]
+name = "kill"
+path = "main.rs"

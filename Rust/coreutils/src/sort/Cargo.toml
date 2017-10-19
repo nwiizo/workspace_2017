@@ -1,0 +1,18 @@
+[package]
+name = "sort"
+version = "0.0.1"
+authors = []
+
+[lib]
+name = "uu_sort"
+path = "sort.rs"
+
+[dependencies]
+getopts = "0.2.14"
+semver = "0.7.0"
+itertools = "0.6.0"
+uucore = { path="../uucore" }
+
+[[bin]]
+name = "sort"
+path = "main.rs"

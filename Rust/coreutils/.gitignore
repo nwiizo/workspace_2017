@@ -1,0 +1,12 @@
+target/
+/src/*/gen_table
+/build/
+/tmp/
+/busybox/
+/.vscode/
+*~
+.*.swp
+.*.swo
+.idea
+Cargo.lock
+lib*.a

@@ -1,0 +1,17 @@
+[package]
+name = "groups"
+version = "0.0.1"
+authors = []
+
+[lib]
+name = "uu_groups"
+path = "groups.rs"
+
+[dependencies.uucore]
+path = "../uucore"
+default-features = false
+features = ["entries"]
+
+[[bin]]
+name = "groups"
+path = "main.rs"

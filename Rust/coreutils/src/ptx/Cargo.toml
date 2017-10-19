@@ -1,0 +1,21 @@
+[package]
+name = "ptx"
+version = "0.0.1"
+authors = []
+
+[lib]
+name = "uu_ptx"
+path = "ptx.rs"
+
+[dependencies]
+getopts = "0.2.14"
+libc = "0.2.26"
+aho-corasick = "0.6.3"
+memchr = "1.0.1"
+regex-syntax = "0.4.1"
+regex = "0.2.2"
+uucore = { path="../uucore" }
+
+[[bin]]
+name = "ptx"
+path = "main.rs"

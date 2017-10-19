@@ -1,0 +1,20 @@
+[package]
+name = "users"
+version = "0.0.1"
+authors = []
+
+[lib]
+name = "uu_users"
+path = "users.rs"
+
+[dependencies]
+getopts = "0.2.14"
+
+[dependencies.uucore]
+default-features = false
+features = ["utmpx"]
+path = "../uucore"
+
+[[bin]]
+name = "users"
+path = "main.rs"

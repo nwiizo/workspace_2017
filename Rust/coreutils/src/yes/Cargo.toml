@@ -1,0 +1,16 @@
+[package]
+name = "yes"
+version = "0.0.1"
+authors = []
+
+[lib]
+name = "uu_yes"
+path = "yes.rs"
+
+[dependencies]
+getopts = "0.2.14"
+uucore = { path="../uucore" }
+
+[[bin]]
+name = "yes"
+path = "main.rs"

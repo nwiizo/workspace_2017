@@ -1,0 +1,20 @@
+[package]
+name = "shred"
+version = "0.0.1"
+authors = []
+
+[lib]
+name = "uu_shred"
+path = "shred.rs"
+
+[dependencies]
+rand = "0.3"
+filetime = "0.1.10"
+getopts = "0.2.14"
+libc = "0.2.26"
+time = "0.1.38"
+uucore = { path="../uucore" }
+
+[[bin]]
+name = "shred"
+path = "main.rs"

@@ -1,0 +1,20 @@
+[package]
+name = "chgrp"
+version = "0.0.1"
+authors = []
+
+[lib]
+name = "uu_chgrp"
+path = "chgrp.rs"
+
+[dependencies]
+walkdir = "1.0.7"
+
+[dependencies.uucore]
+path = "../uucore"
+default-features = false
+features = ["entries", "fs"]
+
+[[bin]]
+name = "chgrp"
+path = "main.rs"

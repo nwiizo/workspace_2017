@@ -1,0 +1,16 @@
+[package]
+name = "cksum"
+version = "0.0.1"
+authors = []
+
+[lib]
+name = "uu_cksum"
+path = "cksum.rs"
+
+[dependencies]
+libc = "0.2.26"
+uucore = { path="../uucore" }
+
+[[bin]]
+name = "cksum"
+path = "main.rs"

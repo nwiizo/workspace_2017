@@ -1,0 +1,16 @@
+[package]
+name = "paste"
+version = "0.0.1"
+authors = []
+
+[lib]
+name = "uu_paste"
+path = "paste.rs"
+
+[dependencies]
+getopts = "0.2.14"
+uucore = { path="../uucore" }
+
+[[bin]]
+name = "paste"
+path = "main.rs"

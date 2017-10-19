@@ -1,0 +1,18 @@
+[package]
+name = "mktemp"
+version = "0.0.1"
+authors = []
+
+[lib]
+name = "uu_mktemp"
+path = "mktemp.rs"
+
+[dependencies]
+uucore = { path="../uucore" }
+getopts = "0.2.14"
+rand = "0.3"
+tempfile = "2.1.5"
+
+[[bin]]
+name = "mktemp"
+path = "main.rs"

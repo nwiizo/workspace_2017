@@ -1,0 +1,17 @@
+[package]
+name = "unlink"
+version = "0.0.1"
+authors = []
+
+[lib]
+name = "uu_unlink"
+path = "unlink.rs"
+
+[dependencies]
+getopts = "0.2.14"
+libc = "0.2.26"
+uucore = { path="../uucore" }
+
+[[bin]]
+name = "unlink"
+path = "main.rs"

@@ -1,0 +1,17 @@
+[package]
+name = "id"
+version = "0.0.1"
+authors = []
+
+[lib]
+name = "uu_id"
+path = "id.rs"
+
+[dependencies.uucore]
+path = "../uucore"
+default-features = false
+features = ["entries", "process"]
+
+[[bin]]
+name = "id"
+path = "main.rs"

@@ -1,0 +1,17 @@
+[package]
+name = "tee"
+version = "0.0.1"
+authors = []
+
+[lib]
+name = "uu_tee"
+path = "tee.rs"
+
+[dependencies]
+getopts = "0.2.14"
+libc = "0.2.26"
+uucore = { path="../uucore" }
+
+[[bin]]
+name = "tee"
+path = "main.rs"

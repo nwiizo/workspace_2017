@@ -1,0 +1,16 @@
+[package]
+name = "ln"
+version = "0.0.1"
+authors = []
+
+[lib]
+name = "uu_ln"
+path = "ln.rs"
+
+[dependencies]
+libc = "0.2.26"
+uucore = { path="../uucore" }
+
+[[bin]]
+name = "ln"
+path = "main.rs"

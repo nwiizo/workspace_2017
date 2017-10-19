@@ -1,0 +1,16 @@
+[package]
+name = "env"
+version = "0.0.1"
+authors = []
+
+[lib]
+name = "uu_env"
+path = "env.rs"
+
+[dependencies]
+libc = "0.2.26"
+uucore = { path="../uucore" }
+
+[[bin]]
+name = "env"
+path = "main.rs"

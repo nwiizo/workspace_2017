@@ -1,0 +1,17 @@
+[package]
+name = "nice"
+version = "0.0.1"
+authors = []
+
+[lib]
+name = "uu_nice"
+path = "nice.rs"
+
+[dependencies]
+getopts = "0.2.14"
+libc = "0.2.26"
+uucore = { path="../uucore" }
+
+[[bin]]
+name = "nice"
+path = "main.rs"

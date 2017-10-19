@@ -1,0 +1,21 @@
+[package]
+name = "tr"
+version = "0.0.1"
+authors = []
+
+[lib]
+name = "uu_tr"
+path = "tr.rs"
+
+[dependencies]
+getopts = "0.2.14"
+bit-set = "0.4.0"
+fnv = "1.0.5"
+
+[dependencies.uucore]
+path = "../uucore"
+default-features = false
+
+[[bin]]
+name = "tr"
+path = "main.rs"

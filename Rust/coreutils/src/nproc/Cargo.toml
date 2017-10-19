@@ -1,0 +1,18 @@
+[package]
+name = "nproc"
+version = "0.0.1"
+authors = []
+
+[lib]
+name = "uu_nproc"
+path = "nproc.rs"
+
+[dependencies]
+getopts = "0.2.14"
+libc = "0.2.26"
+num_cpus = "1.5"
+uucore = { path="../uucore" }
+
+[[bin]]
+name = "nproc"
+path = "main.rs"

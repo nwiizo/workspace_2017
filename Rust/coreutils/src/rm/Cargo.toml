@@ -1,0 +1,18 @@
+[package]
+name = "rm"
+version = "0.0.1"
+authors = []
+
+[lib]
+name = "uu_rm"
+path = "rm.rs"
+
+[dependencies]
+getopts = "0.2.14"
+walkdir = "1.0.7"
+remove_dir_all = "0.2"
+uucore = { path="../uucore" }
+
+[[bin]]
+name = "rm"
+path = "main.rs"

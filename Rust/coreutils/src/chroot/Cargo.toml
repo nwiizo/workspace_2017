@@ -1,0 +1,20 @@
+[package]
+name = "chroot"
+version = "0.0.1"
+authors = []
+
+[lib]
+name = "uu_chroot"
+path = "chroot.rs"
+
+[dependencies]
+getopts = "0.2.14"
+
+[dependencies.uucore]
+path = "../uucore"
+default-features = false
+features = ["entries"]
+
+[[bin]]
+name = "chroot"
+path = "main.rs"
