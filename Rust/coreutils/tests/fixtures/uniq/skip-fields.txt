@@ -1,8 +1,0 @@
-	  aaa  aa  a
-	  ZZZ     aa  a
-ZZZ     aa  a
-	  ZZZ     bb  a
-	  ZZZ     bb  a
-aa  a
-a
-
