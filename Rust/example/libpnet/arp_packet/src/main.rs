@@ -51,7 +51,7 @@ fn main() {
     let iface_name = match env::args().nth(1) {
         Some(n) => n,
         None => {
-            writeln!(io::stderr(), "USAGE: packetdump <NETWORK INTERFACE> <SOURCE IP>").unwrap();
+            writeln!(io::stderr(), "USAGE: arp_packet <NETWORK INTERFACE> <SOURCE IP> <TARGET IP> <TARGET MAC>").unwrap();
             process::exit(1);
         },
     };
@@ -59,7 +59,7 @@ fn main() {
     let source_ip: Result<Ipv4Addr, AddrParseError> = match env::args().nth(2) {
         Some(n) => n.parse(),
         None => {
-            writeln!(io::stderr(), "USAGE: packetdump <NETWORK INTERFACE> <SOURCE IP> <TARGET IP> <TARGET MAC>").unwrap();
+            writeln!(io::stderr(), "USAGE: arp_packet <NETWORK INTERFACE> <SOURCE IP> <TARGET IP> <TARGET MAC>").unwrap();
             process::exit(1);
         },
     };
@@ -67,7 +67,7 @@ fn main() {
     let target_ip: Result<Ipv4Addr, AddrParseError> = match env::args().nth(3) {
         Some(n) => n.parse(),
         None => {
-            writeln!(io::stderr(), "USAGE: packetdump <NETWORK INTERFACE> <SOURCE IP> <TARGET IP> <TARGET MAC>").unwrap();
+            writeln!(io::stderr(), "USAGE: arp_packet <NETWORK INTERFACE> <SOURCE IP> <TARGET IP> <TARGET MAC>").unwrap();
             process::exit(1);
         },
     };
@@ -75,7 +75,7 @@ fn main() {
     let target_mac: Result<MacAddr, ParseMacAddrErr> = match env::args().nth(4) {
         Some(n) => n.parse(),
         None => {
-            writeln!(io::stderr(), "USAGE: packetdump <NETWORK INTERFACE> <SOURCE IP> <TARGET IP> <TARGET MAC>").unwrap();
+            writeln!(io::stderr(), "USAGE: arp_packet <NETWORK INTERFACE> <SOURCE IP> <TARGET IP> <TARGET MAC>").unwrap();
             process::exit(1);
         }
     };

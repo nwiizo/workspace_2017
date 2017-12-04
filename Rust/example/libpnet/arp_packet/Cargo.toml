@@ -1,0 +1,8 @@
+[package]
+name = "arp_packet"
+version = "0.1.0"
+authors = ["nwiizo <syu.m.5151@gmail.com>"]
+
+[dependencies]
+pnet="*"
+pnet_datalink="*"
