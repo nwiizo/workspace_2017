@@ -1,0 +1,67 @@
+-- ----------------------------
+-- Table structure for `films_category`
+-- ----------------------------
+DROP TABLE IF EXISTS `films_category`;
+CREATE TABLE `films_category` (
+  `id` int(11) NOT NULL AUTO_INCREMENT,
+  `category` varchar(255) DEFAULT NULL,
+  PRIMARY KEY (`id`)
+) ENGINE=InnoDB DEFAULT CHARSET=utf8;
+
+-- ----------------------------
+-- Records of films_category
+-- ----------------------------
+INSERT INTO `films_category` VALUES ('1', 'アクション');
+INSERT INTO `films_category` VALUES ('2', 'SF');
+INSERT INTO `films_category` VALUES ('3', 'コメテﾞィ');
+INSERT INTO `films_category` VALUES ('4', 'サスヘﾟンス');
+INSERT INTO `films_category` VALUES ('5', '時代劇');
+INSERT INTO `films_category` VALUES ('6', 'アニメ');
+
+-- ----------------------------
+-- Table structure for `films_title`
+-- ----------------------------
+DROP TABLE IF EXISTS `films_title`;
+CREATE TABLE `films_title` (
+  `category_id` int(11) DEFAULT NULL,
+  `title` varchar(255) DEFAULT NULL,
+  KEY `idx_cid` (`category_id`)
+) ENGINE=InnoDB DEFAULT CHARSET=utf8;
+
+-- ----------------------------
+-- Records of films_title
+-- ----------------------------
+INSERT INTO `films_title` VALUES ('1', '燃えよトﾞラコﾞン');
+INSERT INTO `films_title` VALUES ('1', '少林寺');
+INSERT INTO `films_title` VALUES ('1', 'スハﾟルタンX');
+INSERT INTO `films_title` VALUES ('1', 'タﾞーティハリー');
+INSERT INTO `films_title` VALUES ('1', 'リーサル・ウェホﾟン');
+INSERT INTO `films_title` VALUES ('2', '2001年宇宙の旅');
+INSERT INTO `films_title` VALUES ('2', 'インテﾞヘﾟンテﾞンス・テﾞイ');
+INSERT INTO `films_title` VALUES ('2', 'インヒﾞシﾞフﾞル');
+INSERT INTO `films_title` VALUES ('2', 'エイリアン');
+INSERT INTO `films_title` VALUES ('2', '猿の惑星');
+INSERT INTO `films_title` VALUES ('2', 'シﾞュラシック・ハﾟーク');
+INSERT INTO `films_title` VALUES ('2', 'スター・ウォースﾞ');
+INSERT INTO `films_title` VALUES ('3', 'ライフ・イスﾞ・ヒﾞューティフル');
+INSERT INTO `films_title` VALUES ('3', 'ホーム・アローン');
+INSERT INTO `films_title` VALUES ('3', 'ステキな金縛り');
+INSERT INTO `films_title` VALUES ('3', '男はつらいよ');
+INSERT INTO `films_title` VALUES ('3', 'キック・アス');
+INSERT INTO `films_title` VALUES ('4', 'メメント');
+INSERT INTO `films_title` VALUES ('4', '羊たちの沈黙');
+INSERT INTO `films_title` VALUES ('4', 'サイコ');
+INSERT INTO `films_title` VALUES ('4', '激突!');
+INSERT INTO `films_title` VALUES ('4', 'ミサﾞリー');
+INSERT INTO `films_title` VALUES ('5', '隠し砦の三悪人');
+INSERT INTO `films_title` VALUES ('5', '影武者');
+INSERT INTO `films_title` VALUES ('5', '七人の侍');
+INSERT INTO `films_title` VALUES ('5', 'たそかﾞれ清兵衛');
+INSERT INTO `films_title` VALUES ('5', '武士道フﾞレートﾞ');
+INSERT INTO `films_title` VALUES ('5', '魔界転生');
+INSERT INTO `films_title` VALUES ('6', 'アナと雪の女王');
+INSERT INTO `films_title` VALUES ('6', 'おおかみことﾞもの雨と雪');
+INSERT INTO `films_title` VALUES ('6', 'けいおん！');
+INSERT INTO `films_title` VALUES ('6', 'ヱウﾞァンケﾞリヲン新劇場版');
+INSERT INTO `films_title` VALUES ('6', '千と千尋の神隠し');
+INSERT INTO `films_title` VALUES ('6', 'トイ・ストーリー');
