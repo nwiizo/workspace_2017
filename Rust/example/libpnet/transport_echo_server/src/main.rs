@@ -1,7 +1,5 @@
 extern crate pnet;
 
-/// A simple echo server for packets using a test protocol
-
 use std::iter::repeat;
 
 use pnet::packet::{MutablePacket, Packet};

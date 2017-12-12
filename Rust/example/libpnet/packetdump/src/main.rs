@@ -1,13 +1,3 @@
-// Copyright (c) 2014, 2015 Robert Clipsham <robert@octarineparrot.com>
-//
-// Licensed under the Apache License, Version 2.0 <LICENSE-APACHE or
-// http://www.apache.org/licenses/LICENSE-2.0> or the MIT license
-// <LICENSE-MIT or http://opensource.org/licenses/MIT>, at your
-// option. This file may not be copied, modified, or distributed
-// except according to those terms.
-
-/// This example shows a basic packet logger using libpnet
-
 extern crate pnet;
 
 
@@ -32,13 +22,14 @@ fn handle_udp_packet(interface_name: &str, source: IpAddr, destination: IpAddr, 
     let udp = UdpPacket::new(packet);
 
     if let Some(udp) = udp {
-        println!("[{}]: UDP Packet: {}:{} > {}:{}; length: {}",
+        println!("[{}]: UDP Packet: {}:{} > {}:{}; length: {} payload: {}",
                  interface_name,
                  source,
                  udp.get_source(),
                  destination,
                  udp.get_destination(),
-                 udp.get_length());
+                 udp.get_length(),
+                 udp.get_payload());
     } else {
         println!("[{}]: Malformed UDP Packet", interface_name);
     }
