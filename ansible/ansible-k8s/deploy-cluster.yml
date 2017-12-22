@@ -1,0 +1,11 @@
+---
+- include: prepare.yml
+  when: not net_install
+
+- include: deploy-etcd.yml
+
+- include: deploy-master.yml
+
+- include: deploy-node.yml
+
+- include: deploy-addons.yml

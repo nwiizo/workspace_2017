@@ -1,0 +1,27 @@
+---
+- name: Ensure remote_bin_dir directory exist
+  file: path="{{ remote_bin_dir }}" state=directory mode=0755
+
+- name: Ensure etcd conf directory exist
+  file: path=/etc/etcd state=directory mode=0755
+
+- name: Create etcd user
+  user: name=etcd state=present shell=/sbin/nologin home=/var/lib/etcd
+
+- include: net-install.yml
+  when: net_install
+
+- include: local-install.yml
+  when: not net_install
+
+- include: configure.yml
+  tags:
+    - configure
+
+- include: start.yml
+  when: etcd_modified == true
+
+- include: restart.yml
+  when: etcd_modified == true and etcd_started.changed == false
+  tags:
+    - restart

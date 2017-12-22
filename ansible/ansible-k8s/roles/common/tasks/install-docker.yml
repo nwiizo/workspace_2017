@@ -1,0 +1,6 @@
+---
+- include: install-docker-rpm.yml
+  when: ansible_os_family == "RedHat"
+
+- include: install-docker-deb.yml
+  when: ansible_os_family == "Debian"

@@ -1,0 +1,28 @@
+description "Kubernetes apiserver"
+
+respawn
+
+# start in conjunction with etcd
+start on started etcd
+stop on stopping etcd
+
+script
+    HYPERKUBE={{ remote_bin_dir }}/hyperkube
+    LOG_DIR=/var/log/kubernetes
+    . /etc/kubernetes/config  # load general config
+    if [ -f /etc/kubernetes/apiserver ]; then
+        . /etc/kubernetes/apiserver
+    fi
+    mkdir -p $LOG_DIR
+    exec "$HYPERKUBE" apiserver \
+    ${KUBE_LOG_LEVEL} \
+    ${KUBE_API_ADDRESS} \
+    ${KUBE_API_PORT} \
+    ${KUBE_SERVICE_ADDRESSES} \
+    ${KUBE_ETCD_SERVERS} \
+    $KUBE_ALLOW_PRIV \
+    ${KUBE_ADMISSION_CONTROL} \
+    ${KUBE_TLS} \
+    ${KUBE_API_ARGS} \
+    >> "${LOG_DIR}/apiserver.log" 2>&1
+end script

@@ -1,0 +1,18 @@
+---
+- name: Ensure addons directory exist
+  file: path=/etc/kubernetes/addons/dns state=directory mode=0755
+
+- name: Install kubedns
+  template: src="dns/{{ item }}.yaml.j2" dest="/etc/kubernetes/addons/dns/{{ item }}.yaml" mode=0644
+  with_items:
+    - skydns-rc
+    - skydns-svc
+
+- include: dashboard.yml
+  when: kube_ui
+
+- include: logging.yml
+  when: cluster_logging
+
+- include: monitoring.yml
+  when: cluster_monitoring

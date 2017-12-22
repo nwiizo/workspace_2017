@@ -1,0 +1,24 @@
+---
+- name: Install essential packages
+  apt:
+    name='{{ item }}'
+    state=present
+    install_recommends=no
+  with_items:
+    - apt-transport-https
+    - ca-certificates
+    - socat
+    - util-linux                # nsenter
+  when: ansible_os_family == 'Debian'
+
+- name: Install essential packages
+  yum:
+    name='{{ item }}'
+    state=present
+  with_items:
+    - ca-certificates
+    - socat
+    - util-linux
+  when: ansible_os_family == "RedHat"
+
+- include: install-docker.yml

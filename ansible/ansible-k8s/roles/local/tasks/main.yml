@@ -1,0 +1,30 @@
+---
+- name: Create downloads and resources directories
+  file:
+    path="{{ item }}"
+    state=directory
+    mode=0755
+  with_items:
+    - "{{ download_dir }}"
+    - "{{ bin_dir }}"
+    - "{{ image_dir }}"
+
+- name: Check hyperkube exist
+  stat: path="{{ bin_dir }}/hyperkube"
+  register: hyperkube
+
+- name: Get kubernetes binary
+  get_url:
+    url="https://storage.googleapis.com/kubernetes-release/release/v{{ kube_version }}/bin/linux/amd64/hyperkube"
+    dest="{{ bin_dir }}/hyperkube"
+    mode=0755
+  when: not hyperkube.stat.exists
+
+- name: Check etcd exist
+  stat: path="{{ bin_dir }}/etcd"
+  register: etcd
+
+- include: get-etcd.yml
+  when: not etcd.stat.exists
+
+- include: get-image.yml

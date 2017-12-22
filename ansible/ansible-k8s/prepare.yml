@@ -1,0 +1,8 @@
+---
+- name: Prepare binaries and docker images on local machine
+  hosts: localhost
+  connection: local
+  become: false
+  gather_facts: false
+  roles:
+    - local
